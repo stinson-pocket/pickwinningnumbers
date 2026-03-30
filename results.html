@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latest Lottery Results and Winning Numbers | Pick Winning Numbers</title>
+  <meta name="description" content="Browse the latest lottery results and winning numbers for Powerball, Mega Millions, and featured state games with jackpots and next draw dates.">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+  <link rel="canonical" href="https://pickwinningnumbers.com/results.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Latest Lottery Results and Winning Numbers | Pick Winning Numbers">
+  <meta property="og:description" content="Browse the latest lottery results and winning numbers for Powerball, Mega Millions, and featured state games with jackpots and next draw dates.">
+  <meta property="og:url" content="https://pickwinningnumbers.com/results.html">
+  <meta property="og:site_name" content="Pick Winning Numbers">
+  <meta property="og:image" content="https://pickwinningnumbers.com/logo-from-user.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Latest Lottery Results and Winning Numbers | Pick Winning Numbers">
+  <meta name="twitter:description" content="Browse the latest lottery results and winning numbers for Powerball, Mega Millions, and featured state games with jackpots and next draw dates.">
+  <meta name="twitter:image" content="https://pickwinningnumbers.com/logo-from-user.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://pickwinningnumbers.com/results.html#webpage",
+          "url": "https://pickwinningnumbers.com/results.html",
+          "name": "Latest Lottery Results and Winning Numbers | Pick Winning Numbers",
+          "description": "Browse the latest lottery results and winning numbers for Powerball, Mega Millions, and featured state games with jackpots and next draw dates."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://pickwinningnumbers.com/results.html#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://pickwinningnumbers.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Results",
+              "item": "https://pickwinningnumbers.com/results.html"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://pickwinningnumbers.com/results.html#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How often should the results page update?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The results page refreshes throughout the day so jackpots, next-draw dates, and new numbers stay current."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Will every game stay on this page?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This page serves as the main results hub, with dedicated pages for the biggest games where that adds clarity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can this page support state-specific coverage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The current card model already supports dedicated Georgia, Florida, Arkansas, and national result coverage when needed."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  </script>
+</head>
+<body data-page="results">
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="./index.html" aria-label="Pick Winning Numbers">
+        <img src="./logo-from-user.png" alt="Pick Winning Numbers logo">
+      </a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="./results.html">Results</a>
+        <a href="./tips.html">Tips</a>
+        <a href="./about.html">About</a>
+        <a href="./contact.html">Contact</a>
+      </nav>
+      <a class="nav-cta" href="./contact.html#signup">Get Alerts</a>
+    </header>
+
+    <main>
+      <section class="page-hero">
+        <p class="eyebrow">Results center</p>
+        <h1>Featured draws, jackpots, and next draw details</h1>
+        <p>This page is now wired to the normalized XML results file and is structured to become the most useful daily utility page on the site.</p>
+      </section>
+
+      <section class="section">
+        <div class="value-grid">
+          <article class="value-card">
+            <h3>National draws first</h3>
+            <p>Powerball, Powerball Double Play, and Mega Millions stay easy to find for the biggest day-to-day draws.</p>
+          </article>
+          <article class="value-card">
+            <h3>State games next</h3>
+            <p>State games stay grouped together so local results are easy to browse after the national draws.</p>
+          </article>
+          <article class="value-card">
+            <h3>Clear result cards</h3>
+            <p>Each card keeps draw dates, number sets, jackpots, bonus balls, and update times easy to read.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="filter-bar" id="results-filters">
+          <button class="filter-chip is-active" data-filter="all" type="button">All Games</button>
+          <button class="filter-chip" data-filter="national" type="button">National</button>
+          <button class="filter-chip" data-filter="state" type="button">State Games</button>
+          <button class="filter-chip" data-filter="jackpot" type="button">Jackpots</button>
+        </div>
+        <div class="section-heading compact-heading">
+          <div>
+            <p class="eyebrow">Live-style cards</p>
+            <h2>Latest result modules</h2>
+          </div>
+          <span class="section-note">Updated with the latest available draw data</span>
+        </div>
+        <div class="results-grid full-results-grid" id="results-page-grid"></div>
+      </section>
+
+      <section class="section split-layout">
+        <article class="content-card">
+          <h2>What you’ll find here</h2>
+          <ul class="content-list">
+            <li>Organized views for national draws, state games, and jackpot-focused cards</li>
+            <li>Fast scanning for draw numbers, next draw dates, and prize amounts</li>
+            <li>Consistent game cards built for daily repeat visits</li>
+            <li>Helpful links into supporting tips and explainer content</li>
+          </ul>
+        </article>
+        <article class="content-card">
+          <h2>Why visitors use this page</h2>
+          <ul class="content-list">
+            <li>Fast scanning for draw numbers and jackpot amounts</li>
+            <li>Visible next-draw timing for repeat visitors</li>
+            <li>Structured fields that keep game details easy to scan</li>
+            <li>Built to work alongside lottery news, alerts, and educational content</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Results FAQ</p>
+            <h2>Questions visitors are likely to ask</h2>
+          </div>
+        </div>
+        <div class="faq-list">
+          <article class="faq-card">
+            <h3>How often should the results page update?</h3>
+            <p>The results page refreshes throughout the day so jackpots, next-draw dates, and new numbers stay current.</p>
+          </article>
+          <article class="faq-card">
+            <h3>Will every game stay on this page?</h3>
+            <p>This page serves as the main results hub, with dedicated pages for the biggest games where that adds clarity.</p>
+          </article>
+          <article class="faq-card">
+            <h3>Can this page support state-specific coverage?</h3>
+            <p>Yes. The card structure already supports dedicated Georgia, Florida, Arkansas, and national result coverage when needed.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <strong class="footer-brand">Pick Winning Numbers</strong>
+        <p>Live lottery results, jackpot tracking, and helpful draw information in one place.</p>
+      </div>
+      <div class="footer-links">
+        <a href="./index.html">Home</a>
+        <a href="./tips.html">Tips</a>
+        <a href="./about.html">About</a>
+        <a href="./contact.html">Contact</a>
+      </div>
+    </footer>
+  </div>
+
+  <script src="./results-feed.js"></script>
+  <script src="./data.js"></script>
+  <script src="./feed-config.js"></script>
+  <script src="./results-bootstrap.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

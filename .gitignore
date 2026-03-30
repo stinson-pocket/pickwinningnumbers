@@ -1,0 +1,10 @@
+results-refresh.log
+results-refresh-error.log
+
+scripts/__pycache__/
+*.pyc
+
+index.html.png
+logo.svg.png
+
+.DS_Store
