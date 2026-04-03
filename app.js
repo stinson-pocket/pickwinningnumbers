@@ -27,6 +27,34 @@
     return document.getElementById(id);
   }
 
+  function renderNewsCard(item) {
+    const href = item.href ? ` href="${item.href}"` : "";
+    const target = item.target ? ` target="${item.target}"` : "";
+    const rel = item.rel ? ` rel="${item.rel}"` : "";
+    const classes = `news-card ${item.spotlight ? "spotlight" : ""}${item.href ? " news-card-link" : ""}`;
+    const tagName = item.href ? "a" : "article";
+
+    return `
+      <${tagName} class="${classes}"${href}${target}${rel}>
+        <p class="card-label">${item.category}</p>
+        <h3>${item.title}</h3>
+        ${item.summary ? `<p>${item.summary}</p>` : ""}
+        <span>${item.source} · ${item.time}</span>
+      </${tagName}>
+    `;
+  }
+
+  function renderTipCard(tip) {
+    return `
+      <a class="tip-card tip-card-link" href="./articles/${tip.slug}.html" aria-label="Read ${tip.title}">
+        <p class="card-label">From Tips</p>
+        <h3>${tip.title}</h3>
+        <p>${tip.summary}</p>
+        <span class="tip-card-cta">Read article</span>
+      </a>
+    `;
+  }
+
   function getNewsletterEndpoint() {
     const config = window.resultsFeedConfig || {};
     const explicitUrl = (config.newsletterSubmitUrl || "").trim();
@@ -158,6 +186,11 @@
       if (data.ok) {
         setFormStatus(form, data.message || "You are on the list.", "success");
         form.reset();
+        window.dispatchEvent(new CustomEvent("pwn:newsletter_signup_success", {
+          detail: {
+            formContext: form.dataset.formContext || ""
+          }
+        }));
       } else {
         setFormStatus(form, data.message || "The signup did not go through. Please try again.", "error");
       }
@@ -204,7 +237,7 @@
       ? `<h3><a class="card-link" href="${gameUrl}">${result.name}</a></h3>`
       : `<h3>${result.name}</h3>`;
     return `
-      <article class="result-card" data-type="${result.type}">
+      <article class="result-card" data-type="${result.type}" data-state-id="${result.stateId || ""}" id="result-${result.id}">
         <div class="result-head">
           <div>
             <p class="card-label">${result.tag}</p>
@@ -268,24 +301,12 @@
 
     const newsGrid = byId("news-grid");
     if (newsGrid) {
-      newsGrid.innerHTML = activeData.news.map((item) => `
-        <article class="news-card ${item.spotlight ? "spotlight" : ""}">
-          <p class="card-label">${item.category}</p>
-          <h3>${item.title}</h3>
-          ${item.summary ? `<p>${item.summary}</p>` : ""}
-          <span>${item.source} · ${item.time}</span>
-        </article>
-      `).join("");
+      newsGrid.innerHTML = activeData.news.slice(0, 3).map(renderNewsCard).join("");
     }
 
     const tipsGrid = byId("tips-grid");
     if (tipsGrid) {
-      tipsGrid.innerHTML = activeData.tips.slice(0, 3).map((tip) => `
-        <article class="tip-card">
-          <h3>${tip.title}</h3>
-          <p>${tip.summary}</p>
-        </article>
-      `).join("");
+      tipsGrid.innerHTML = activeData.tips.slice(0, 3).map(renderTipCard).join("");
     }
   }
 
@@ -293,28 +314,89 @@
     const activeData = getActiveData();
     const resultsGrid = byId("results-page-grid");
     if (!resultsGrid) return;
+    const sectionNote = byId("results-section-note");
+    const statePicker = byId("results-state-picker");
+    let activeFilter = "all";
+    let activeStateId = "";
 
-    function draw(filter) {
-      let results = activeData.results;
-      if (filter === "national") results = results.filter((item) => item.type === "national");
-      if (filter === "state") results = results.filter((item) => item.type === "state");
-      if (filter === "jackpot") results = results.filter((item) => item.jackpot.includes("$"));
-      resultsGrid.innerHTML = results.map(renderResultCard).join("");
+    function getStateGames() {
+      return activeData.results.filter((item) => item.type === "state" && item.stateId);
     }
 
-    draw("all");
+    function populateStatePicker() {
+      if (!statePicker) return;
+
+      const states = getStateGames()
+        .map((item) => ({ stateId: item.stateId, state: item.state }))
+        .filter((item, index, array) => array.findIndex((entry) => entry.stateId === item.stateId) === index)
+        .sort((left, right) => left.state.localeCompare(right.state));
+
+      statePicker.innerHTML = [
+        '<option value="">All states</option>',
+        ...states.map((item) => `<option value="${item.stateId}">${item.state}</option>`)
+      ].join("");
+    }
+
+    function draw() {
+      let results = activeData.results;
+      if (activeFilter === "national") results = results.filter((item) => item.type === "national");
+      if (activeFilter === "state") results = results.filter((item) => item.type === "state");
+      if (activeFilter === "jackpot") results = results.filter((item) => item.jackpot.includes("$"));
+      if (activeStateId) results = results.filter((item) => item.type === "state" && item.stateId === activeStateId);
+      resultsGrid.innerHTML = results.map(renderResultCard).join("");
+
+      if (sectionNote) {
+        if (activeStateId) {
+          const selectedOption = statePicker ? statePicker.options[statePicker.selectedIndex] : null;
+          const label = selectedOption ? selectedOption.textContent : "selected state";
+          sectionNote.textContent = "Showing current results for " + label;
+        } else if (activeFilter === "national") {
+          sectionNote.textContent = "Showing national draws only";
+        } else if (activeFilter === "state") {
+          sectionNote.textContent = "Showing state games only";
+        } else if (activeFilter === "jackpot") {
+          sectionNote.textContent = "Showing jackpot-focused cards";
+        } else {
+          sectionNote.textContent = "Updated with the latest available draw data";
+        }
+      }
+    }
+
+    populateStatePicker();
+    draw();
 
     const filterBar = byId("results-filters");
-    if (!filterBar) return;
+    if (filterBar) {
+      filterBar.addEventListener("click", (event) => {
+        const button = event.target.closest("[data-filter]");
+        if (!button) return;
 
-    filterBar.addEventListener("click", (event) => {
-      const button = event.target.closest("[data-filter]");
-      if (!button) return;
+        filterBar.querySelectorAll(".filter-chip").forEach((chip) => chip.classList.remove("is-active"));
+        button.classList.add("is-active");
+        activeFilter = button.dataset.filter;
+        if (activeFilter !== "state" && statePicker && statePicker.value) {
+          statePicker.value = "";
+          activeStateId = "";
+        }
+        draw();
+      });
+    }
 
-      filterBar.querySelectorAll(".filter-chip").forEach((chip) => chip.classList.remove("is-active"));
-      button.classList.add("is-active");
-      draw(button.dataset.filter);
-    });
+    if (statePicker) {
+      statePicker.addEventListener("change", () => {
+        activeStateId = statePicker.value;
+        if (activeStateId) {
+          activeFilter = "state";
+          if (filterBar) {
+            filterBar.querySelectorAll(".filter-chip").forEach((chip) => {
+              chip.classList.toggle("is-active", chip.dataset.filter === "state");
+            });
+          }
+          resultsGrid.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+        draw();
+      });
+    }
   }
 
   function renderTipsPage() {

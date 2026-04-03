@@ -92,33 +92,47 @@ const siteData = {
   ],
   news: [
     {
-      title: "Powerball climbs to $180M ahead of Monday draw",
-      category: "Jackpot watch",
-      summary: "Short, curated summaries with clear source attribution give the site freshness without becoming an untrustworthy scraper.",
-      source: "Official source",
-      time: "2 hours ago",
+      title: "Arkansas player claims $250.8M Powerball jackpot",
+      category: "Winner story",
+      summary: "The Arkansas winner of the March 2, 2026 Powerball drawing has officially claimed the $250.8 million prize, giving the site a timely national winner story to pair with jackpot coverage.",
+      source: "Pick Winning Numbers story",
+      time: "March 31, 2026",
+      href: "./articles/arkansas-player-claims-250-8m-powerball-jackpot.html",
       spotlight: true
     },
     {
-      title: "Georgia ticket holder claims seven-figure prize",
+      title: "Illinois player claims $536M Mega Millions jackpot",
       category: "Winner story",
-      summary: "",
-      source: "Regional lottery release",
-      time: "Today"
+      summary: "The anonymous Illinois winner of the March 10, 2026 Mega Millions drawing has officially claimed the $536 million prize, adding a major winner update to the site’s news rotation.",
+      source: "Pick Winning Numbers story",
+      time: "March 18, 2026",
+      href: "./articles/illinois-player-claims-536m-mega-millions-jackpot.html"
     },
     {
-      title: "Draw timing changes posted for selected state games",
-      category: "Schedule update",
-      summary: "",
-      source: "Official update",
-      time: "Today"
+      title: "Rex player wins $2 million on Georgia Lottery scratcher",
+      category: "Winner story",
+      summary: "This official Georgia Lottery release gives the homepage a real winner story with clear attribution instead of a vague placeholder headline.",
+      source: "Georgia Lottery",
+      time: "March 12, 2026",
+      href: "https://www.galottery.com/en-us/media-center/pressreleaseinput/2026/march/rex-player-wins-2-million-on-georgia-lottery-scratcher.html",
+      target: "_blank",
+      rel: "noreferrer"
+    },
+    {
+      title: "Why draw-day updates matter when state schedules shift",
+      category: "Schedule explainer",
+      summary: "This guide explains why state draw calendars, cutoffs, and timing changes matter when you are checking results or planning quick pick-ups.",
+      source: "Pick Winning Numbers guide",
+      time: "On-site article",
+      href: "./articles/why-draw-day-updates-matter.html"
     },
     {
       title: "What cash options really mean when jackpots surge",
       category: "Explainer",
-      summary: "",
-      source: "Editorial guide",
-      time: "New"
+      summary: "Use this internal guide to understand rollover mechanics, jackpot growth, and why cash-value headlines can feel confusing during big draw stretches.",
+      source: "Pick Winning Numbers guide",
+      time: "On-site article",
+      href: "./articles/how-jackpots-roll-over.html"
     }
   ],
   tips: [
