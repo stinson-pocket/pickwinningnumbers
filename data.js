@@ -92,26 +92,26 @@ const siteData = {
   ],
   news: [
     {
-      title: "Arkansas player claims $250.8M Powerball jackpot",
-      category: "Winner story",
-      summary: "The Arkansas winner of the March 2, 2026 Powerball drawing has officially claimed the $250.8 million prize, giving the site a timely national winner story to pair with jackpot coverage.",
-      source: "Pick Winning Numbers story",
-      time: "March 31, 2026",
-      href: "./articles/arkansas-player-claims-250-8m-powerball-jackpot.html",
+      title: "Powerball climbs to $231M ahead of tonight's draw",
+      category: "Jackpot update",
+      summary: "Saturday's 03-06-13-41-65 + 01 pull pushed the pot to $231 million for the April 6 drawing, keeping national focus on Powerball's streak.",
+      source: "Pick Winning Numbers desk",
+      time: "April 6, 2026",
+      href: "./powerball.html",
       spotlight: true
     },
     {
-      title: "Illinois player claims $536M Mega Millions jackpot",
-      category: "Winner story",
-      summary: "The anonymous Illinois winner of the March 10, 2026 Mega Millions drawing has officially claimed the $536 million prize, adding a major winner update to the site’s news rotation.",
-      source: "Pick Winning Numbers story",
-      time: "March 18, 2026",
-      href: "./articles/illinois-player-claims-536m-mega-millions-jackpot.html"
+      title: "Mega Millions holds at $100M after April 3 lineup",
+      category: "Jackpot watch",
+      summary: "The 31-45-62-63-68 + 15 lineup kept Mega Millions in nine digits, setting up another $100 million drawing on Tuesday night.",
+      source: "Pick Winning Numbers desk",
+      time: "April 6, 2026",
+      href: "./mega-millions.html"
     },
     {
-      title: "Rex player wins $2 million on Georgia Lottery scratcher",
+      title: "Georgia Lottery confirms $2 million scratcher win",
       category: "Winner story",
-      summary: "This official Georgia Lottery release gives the homepage a real winner story with clear attribution instead of a vague placeholder headline.",
+      summary: "An official Georgia Lottery release details how a Rex player turned a scratcher into a $2 million prize, a perfect story to pair with state coverage.",
       source: "Georgia Lottery",
       time: "March 12, 2026",
       href: "https://www.galottery.com/en-us/media-center/pressreleaseinput/2026/march/rex-player-wins-2-million-on-georgia-lottery-scratcher.html",
@@ -119,20 +119,20 @@ const siteData = {
       rel: "noreferrer"
     },
     {
-      title: "Why draw-day updates matter when state schedules shift",
-      category: "Schedule explainer",
-      summary: "This guide explains why state draw calendars, cutoffs, and timing changes matter when you are checking results or planning quick pick-ups.",
-      source: "Pick Winning Numbers guide",
-      time: "On-site article",
-      href: "./articles/why-draw-day-updates-matter.html"
+      title: "Arkansas player claims $250.8M Powerball jackpot",
+      category: "Winner story",
+      summary: "The Arkansas winner of the March 2 Powerball drawing has officially claimed the $250.8 million prize, giving the homepage a timely national story.",
+      source: "Pick Winning Numbers story",
+      time: "March 31, 2026",
+      href: "./articles/arkansas-player-claims-250-8m-powerball-jackpot.html"
     },
     {
-      title: "What cash options really mean when jackpots surge",
-      category: "Explainer",
-      summary: "Use this internal guide to understand rollover mechanics, jackpot growth, and why cash-value headlines can feel confusing during big draw stretches.",
-      source: "Pick Winning Numbers guide",
-      time: "On-site article",
-      href: "./articles/how-jackpots-roll-over.html"
+      title: "Illinois player claims $536M Mega Millions jackpot",
+      category: "Winner story",
+      summary: "The anonymous Illinois winner of the March 10 Mega Millions drawing has officially claimed the $536 million prize, adding another major win to the mix.",
+      source: "Pick Winning Numbers story",
+      time: "March 18, 2026",
+      href: "./articles/illinois-player-claims-536m-mega-millions-jackpot.html"
     }
   ],
   tips: [
