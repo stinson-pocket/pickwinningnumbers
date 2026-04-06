@@ -27,7 +27,6 @@ RSYNC_FLAGS=(
   -av
   --itemize-changes
   '--prune-empty-dirs'
-  '--include=/.htaccess'
   '--include=/articles/***'
   '--include=/social/***'
   '--include=/watch/***'
