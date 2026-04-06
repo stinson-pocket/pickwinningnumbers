@@ -337,6 +337,11 @@ def main():
     output_path.write_text(output, encoding="utf-8")
     print(f"Wrote {output_path}")
 
+    if output_path.name == "results-feed.js":
+        cache_bust_path = output_path.with_name("results-feed-latest.js")
+        cache_bust_path.write_text(output, encoding="utf-8")
+        print(f"Mirrored {cache_bust_path}")
+
 
 if __name__ == "__main__":
     main()
