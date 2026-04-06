@@ -1,6 +1,6 @@
 window.resultsFeedData = {
   "heroStats": [
-    "Updated WED 2026-04-01 23:01:15 EST",
+    "Updated MON 2026-04-06 07:25:57 EST",
     "47 states tracked",
     "392 active game records"
   ],
@@ -12,27 +12,27 @@ window.resultsFeedData = {
       "state": "Arkansas",
       "stateId": "AR",
       "tag": "National draw",
-      "jackpot": "$217M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$231M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "10",
-        "11",
-        "52",
-        "64"
+        "03",
+        "06",
+        "13",
+        "41",
+        "65"
       ],
-      "special": "24",
+      "special": "01",
       "detailA": [
         "Power Play",
-        "3"
+        "4"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:01:15 EST"
+        "MON 2026-04-06 07:25:57 EST"
       ]
     },
     {
@@ -43,26 +43,26 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "National draw",
       "jackpot": "$10M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "27",
-        "31",
-        "47",
-        "56",
-        "68"
+        "20",
+        "38",
+        "45",
+        "58",
+        "63"
       ],
-      "special": "14",
+      "special": "05",
       "detailA": [
         "Special",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:30:15 EST"
+        "SAT 2026-04-04 23:29:48 EST"
       ]
     },
     {
@@ -72,27 +72,27 @@ window.resultsFeedData = {
       "state": "Arkansas",
       "stateId": "AR",
       "tag": "National draw",
-      "jackpot": "$90M",
-      "lastDraw": "03/31/2026",
+      "jackpot": "$100M",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "18",
-        "35",
+        "31",
         "45",
-        "60",
-        "65"
+        "62",
+        "63",
+        "68"
       ],
-      "special": "17",
+      "special": "15",
       "detailA": [
         "Bonus",
         "Mega Ball"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/07/2026"
       ],
       "detailC": [
         "Updated",
-        "TUE 2026-03-31 23:05:38 EST"
+        "MON 2026-04-06 07:25:57 EST"
       ]
     },
     {
@@ -103,26 +103,26 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "Arkansas game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -132,28 +132,28 @@ window.resultsFeedData = {
       "state": "Arkansas",
       "stateId": "AR",
       "tag": "Arkansas game",
-      "jackpot": "$1.1M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$1.2M",
+      "lastDraw": "04/04/2026",
       "numbers": [
         "04",
-        "08",
-        "22",
-        "24",
-        "26",
-        "36"
+        "06",
+        "23",
+        "29",
+        "34",
+        "40"
       ],
-      "special": "32",
+      "special": "19",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:11:02 EST"
+        "SAT 2026-04-04 22:11:01 EST"
       ]
     },
     {
@@ -163,14 +163,14 @@ window.resultsFeedData = {
       "state": "Arkansas",
       "stateId": "AR",
       "tag": "Arkansas game",
-      "jackpot": "$120K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$60K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "18",
-        "25",
-        "27",
-        "32"
+        "04",
+        "06",
+        "13",
+        "26",
+        "34"
       ],
       "special": null,
       "detailA": [
@@ -179,11 +179,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:07:02 EST"
+        "SUN 2026-04-05 21:10:59 EST"
       ]
     },
     {
@@ -194,11 +194,11 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "Arkansas game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "01",
-        "08",
-        "04",
+        "09",
+        "05",
+        "03",
         "01"
       ],
       "special": null,
@@ -208,11 +208,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:09:03 EST"
+        "SAT 2026-04-04 14:09:02 EST"
       ]
     },
     {
@@ -223,11 +223,11 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "Arkansas game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "05",
-        "01",
-        "01"
+        "07",
+        "07",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -236,11 +236,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:09:02 EST"
+        "SAT 2026-04-04 14:09:01 EST"
       ]
     },
     {
@@ -251,12 +251,12 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "Arkansas game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
-        "06",
-        "00",
-        "04"
+        "01",
+        "03",
+        "05",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -265,11 +265,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:08:03 EST"
+        "SUN 2026-04-05 20:08:55 EST"
       ]
     },
     {
@@ -280,11 +280,11 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "Arkansas game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "06",
-        "06"
+        "03",
+        "00",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -293,11 +293,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:07:43 EST"
+        "SUN 2026-04-05 20:08:39 EST"
       ]
     },
     {
@@ -308,26 +308,26 @@ window.resultsFeedData = {
       "stateId": "AZ",
       "tag": "Arizona game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -338,74 +338,13 @@ window.resultsFeedData = {
       "stateId": "AZ",
       "tag": "Arizona game",
       "jackpot": "$1.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "09",
-        "25",
-        "31",
-        "35",
-        "36",
-        "43"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:47:01 EST"
-      ]
-    },
-    {
-      "id": "az-az2",
-      "type": "state",
-      "name": "Fantasy 5",
-      "state": "Arizona",
-      "stateId": "AZ",
-      "tag": "Arizona game",
-      "jackpot": "$68K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
         "12",
-        "25",
-        "26",
-        "27",
-        "34"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:40:02 EST"
-      ]
-    },
-    {
-      "id": "az-azt",
-      "type": "state",
-      "name": "Triple Twist",
-      "state": "Arizona",
-      "stateId": "AZ",
-      "tag": "Arizona game",
-      "jackpot": "$350K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "10",
-        "13",
-        "19",
-        "29",
+        "18",
+        "23",
         "36",
+        "39",
         "41"
       ],
       "special": null,
@@ -415,11 +354,72 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:40:04 EST"
+        "SAT 2026-04-04 22:36:02 EST"
+      ]
+    },
+    {
+      "id": "az-az2",
+      "type": "state",
+      "name": "Fantasy 5",
+      "state": "Arizona",
+      "stateId": "AZ",
+      "tag": "Arizona game",
+      "jackpot": "$95K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "11",
+        "20",
+        "25",
+        "38"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:40:02 EST"
+      ]
+    },
+    {
+      "id": "az-azt",
+      "type": "state",
+      "name": "Triple Twist",
+      "state": "Arizona",
+      "stateId": "AZ",
+      "tag": "Arizona game",
+      "jackpot": "$365K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "09",
+        "17",
+        "20",
+        "23",
+        "24",
+        "28"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:40:04 EST"
       ]
     },
     {
@@ -430,11 +430,11 @@ window.resultsFeedData = {
       "stateId": "AZ",
       "tag": "Arizona game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "03",
         "02",
-        "01",
-        "09"
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -443,11 +443,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:40:03 EST"
+        "SUN 2026-04-05 22:40:03 EST"
       ]
     },
     {
@@ -457,27 +457,27 @@ window.resultsFeedData = {
       "state": "California",
       "stateId": "CA",
       "tag": "California game",
-      "jackpot": "$8M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$9M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "11",
-        "20",
-        "23",
-        "38",
-        "44"
+        "03",
+        "06",
+        "14",
+        "34",
+        "43"
       ],
-      "special": "25",
+      "special": "14",
       "detailA": [
         "Bonus",
         "Mega Ball"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:59:02 EST"
+        "SAT 2026-04-04 22:57:17 EST"
       ]
     },
     {
@@ -487,13 +487,13 @@ window.resultsFeedData = {
       "state": "California",
       "stateId": "CA",
       "tag": "California game",
-      "jackpot": "$77K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$158K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "21",
-        "25",
-        "31",
+        "04",
+        "13",
+        "16",
+        "19",
         "37"
       ],
       "special": null,
@@ -503,11 +503,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:56:02 EST"
+        "SUN 2026-04-05 21:46:14 EST"
       ]
     },
     {
@@ -517,13 +517,13 @@ window.resultsFeedData = {
       "state": "California",
       "stateId": "CA",
       "tag": "California game",
-      "jackpot": "$87K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$102K",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "01",
-        "05",
         "02",
-        "12",
+        "02",
+        "04",
         "03",
         "09"
       ],
@@ -534,11 +534,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:56:05 EST"
+        "SUN 2026-04-05 21:48:27 EST"
       ]
     },
     {
@@ -549,12 +549,12 @@ window.resultsFeedData = {
       "stateId": "CA",
       "tag": "California game",
       "jackpot": "Average 5000",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "08",
-        "07",
-        "07"
+        "02",
+        "03",
+        "03",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -563,11 +563,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:56:04 EST"
+        "SUN 2026-04-05 21:47:47 EST"
       ]
     },
     {
@@ -578,11 +578,11 @@ window.resultsFeedData = {
       "stateId": "CA",
       "tag": "California game",
       "jackpot": "Average 500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "03",
         "00",
-        "05",
-        "06"
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -591,11 +591,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 16:15:02 EST"
+        "SUN 2026-04-05 16:11:02 EST"
       ]
     },
     {
@@ -606,11 +606,11 @@ window.resultsFeedData = {
       "stateId": "CA",
       "tag": "California game",
       "jackpot": "Average 500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "01",
-        "09"
+        "03",
+        "03",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -619,11 +619,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:56:03 EST"
+        "SUN 2026-04-05 21:47:48 EST"
       ]
     },
     {
@@ -634,26 +634,26 @@ window.resultsFeedData = {
       "stateId": "CO",
       "tag": "Colorado game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -663,15 +663,15 @@ window.resultsFeedData = {
       "state": "Colorado",
       "stateId": "CO",
       "tag": "Colorado game",
-      "jackpot": "$1.2M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$1.3M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "02",
+        "04",
         "12",
-        "15",
-        "21",
-        "29",
-        "30"
+        "27",
+        "35",
+        "39",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -680,11 +680,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:22:03 EST"
+        "SAT 2026-04-04 22:04:02 EST"
       ]
     },
     {
@@ -695,14 +695,14 @@ window.resultsFeedData = {
       "stateId": "CO",
       "tag": "Colorado game",
       "jackpot": "$250K",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "07",
-        "21",
-        "24",
-        "25",
+        "11",
+        "16",
+        "19",
+        "22",
         "31",
-        "32"
+        "33"
       ],
       "special": null,
       "detailA": [
@@ -711,11 +711,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:22:04 EST"
+        "SAT 2026-04-04 22:04:03 EST"
       ]
     },
     {
@@ -726,13 +726,13 @@ window.resultsFeedData = {
       "stateId": "CO",
       "tag": "Colorado game",
       "jackpot": "$20K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "03",
-        "04",
-        "08",
-        "18"
+        "10",
+        "11",
+        "19",
+        "28",
+        "32"
       ],
       "special": null,
       "detailA": [
@@ -741,11 +741,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:12:02 EST"
+        "SUN 2026-04-05 21:58:01 EST"
       ]
     },
     {
@@ -756,11 +756,11 @@ window.resultsFeedData = {
       "stateId": "CO",
       "tag": "Colorado game",
       "jackpot": "$2.5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
         "01",
-        "01"
+        "08",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -769,11 +769,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:14:02 EST"
+        "SUN 2026-04-05 21:57:01 EST"
       ]
     },
     {
@@ -784,11 +784,11 @@ window.resultsFeedData = {
       "stateId": "CO",
       "tag": "Colorado game",
       "jackpot": "$2.5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "09",
-        "03"
+        "04",
+        "05",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -797,11 +797,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 15:52:02 EST"
+        "SUN 2026-04-05 15:46:02 EST"
       ]
     },
     {
@@ -812,26 +812,26 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -842,14 +842,14 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "$1.8M",
-      "lastDraw": "03/31/2026",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "05",
-        "06",
-        "15",
-        "22",
-        "40",
-        "44"
+        "03",
+        "07",
+        "10",
+        "14",
+        "19",
+        "22"
       ],
       "special": null,
       "detailA": [
@@ -858,11 +858,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/07/2026"
       ],
       "detailC": [
         "Updated",
-        "TUE 2026-03-31 23:01:45 EST"
+        "FRI 2026-04-03 22:55:44 EST"
       ]
     },
     {
@@ -873,13 +873,13 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "05",
-        "14",
-        "20",
-        "31"
+        "09",
+        "15",
+        "19",
+        "27",
+        "30"
       ],
       "special": null,
       "detailA": [
@@ -888,11 +888,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:46:01 EST"
+        "SUN 2026-04-05 22:50:02 EST"
       ]
     },
     {
@@ -903,12 +903,12 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "02",
+        "08",
         "05",
-        "01"
+        "06",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -917,11 +917,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:14:03 EST"
+        "SUN 2026-04-05 14:11:04 EST"
       ]
     },
     {
@@ -932,11 +932,11 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
+        "04",
         "05",
-        "04"
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -945,11 +945,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:14:01 EST"
+        "SUN 2026-04-05 14:11:02 EST"
       ]
     },
     {
@@ -960,12 +960,12 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "01",
-        "01",
         "02",
-        "07"
+        "03",
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -974,11 +974,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:47:03 EST"
+        "SUN 2026-04-05 22:47:04 EST"
       ]
     },
     {
@@ -989,10 +989,10 @@ window.resultsFeedData = {
       "stateId": "CT",
       "tag": "Connecticut game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "00",
+        "08",
+        "09",
         "02"
       ],
       "special": null,
@@ -1002,11 +1002,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:47:01 EST"
+        "SUN 2026-04-05 22:47:02 EST"
       ]
     },
     {
@@ -1017,26 +1017,26 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -1047,13 +1047,13 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -1062,11 +1062,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -1077,13 +1077,13 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "09",
         "07",
-        "02",
-        "01"
+        "05",
+        "06",
+        "08",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -1092,11 +1092,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:18:04 EST"
+        "SUN 2026-04-05 14:27:03 EST"
       ]
     },
     {
@@ -1107,12 +1107,12 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "05",
+        "03",
+        "07",
         "09",
-        "08"
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -1121,11 +1121,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:18:03 EST"
+        "SUN 2026-04-05 14:27:02 EST"
       ]
     },
     {
@@ -1136,11 +1136,11 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
-        "08",
-        "07"
+        "03",
+        "06",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -1149,11 +1149,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:18:02 EST"
+        "SUN 2026-04-05 14:27:01 EST"
       ]
     },
     {
@@ -1164,13 +1164,13 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "07",
         "06",
-        "01",
         "03",
         "00",
-        "05"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -1179,11 +1179,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:16:04 EST"
+        "SUN 2026-04-05 20:13:57 EST"
       ]
     },
     {
@@ -1194,12 +1194,12 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "08",
+        "06",
+        "07",
         "01",
-        "06"
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -1208,11 +1208,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:16:03 EST"
+        "SUN 2026-04-05 20:13:58 EST"
       ]
     },
     {
@@ -1223,11 +1223,11 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "04",
-        "07"
+        "05",
+        "07",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -1236,11 +1236,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:16:02 EST"
+        "SUN 2026-04-05 20:13:59 EST"
       ]
     },
     {
@@ -1251,11 +1251,11 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "03",
-        "01"
+        "08",
+        "08",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -1264,11 +1264,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:53:02 EST"
+        "SUN 2026-04-05 23:44:09 EST"
       ]
     },
     {
@@ -1279,11 +1279,11 @@ window.resultsFeedData = {
       "stateId": "DC",
       "tag": "District of Columbia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
+        "09",
+        "06",
         "00",
-        "01",
         "09"
       ],
       "special": null,
@@ -1293,11 +1293,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:53:03 EST"
+        "SUN 2026-04-05 23:44:10 EST"
       ]
     },
     {
@@ -1308,13 +1308,13 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -1323,11 +1323,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -1337,15 +1337,15 @@ window.resultsFeedData = {
       "state": "Delaware",
       "stateId": "DE",
       "tag": "Delaware game",
-      "jackpot": "$51.5K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$53K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
         "03",
-        "10",
-        "17",
-        "23",
-        "25"
+        "06",
+        "07",
+        "25",
+        "26",
+        "33"
       ],
       "special": null,
       "detailA": [
@@ -1354,11 +1354,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:13:02 EST"
+        "SUN 2026-04-05 20:13:01 EST"
       ]
     },
     {
@@ -1369,12 +1369,12 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
         "03",
-        "07",
-        "04"
+        "00",
+        "00",
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -1383,11 +1383,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:07:03 EST"
+        "SUN 2026-04-05 14:07:02 EST"
       ]
     },
     {
@@ -1398,11 +1398,11 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "01",
-        "05"
+        "02",
+        "02",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -1411,11 +1411,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:07:02 EST"
+        "SUN 2026-04-05 14:07:01 EST"
       ]
     },
     {
@@ -1426,12 +1426,12 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "08",
+        "04",
         "01",
-        "07",
-        "05",
-        "00"
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -1440,11 +1440,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:09:06 EST"
+        "SUN 2026-04-05 20:08:07 EST"
       ]
     },
     {
@@ -1455,11 +1455,11 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
         "08",
-        "05"
+        "09",
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -1468,11 +1468,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:09:07 EST"
+        "SUN 2026-04-05 20:08:08 EST"
       ]
     },
     {
@@ -1483,13 +1483,13 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "03",
         "06",
-        "09",
-        "01",
-        "06",
-        "05"
+        "02",
+        "08",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -1498,11 +1498,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:07:04 EST"
+        "SUN 2026-04-05 14:07:03 EST"
       ]
     },
     {
@@ -1513,13 +1513,13 @@ window.resultsFeedData = {
       "stateId": "DE",
       "tag": "Delaware game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "08",
         "03",
-        "00",
-        "03",
-        "01",
-        "03"
+        "02",
+        "02",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -1528,11 +1528,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:09:08 EST"
+        "SUN 2026-04-05 20:08:09 EST"
       ]
     },
     {
@@ -1542,15 +1542,15 @@ window.resultsFeedData = {
       "state": "Florida",
       "stateId": "FL",
       "tag": "Florida game",
-      "jackpot": "$12.8M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$13.8M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "09",
-        "31",
-        "33",
-        "46",
-        "47",
-        "51"
+        "10",
+        "12",
+        "13",
+        "15",
+        "45",
+        "48"
       ],
       "special": null,
       "detailA": [
@@ -1559,11 +1559,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:46:03 EST"
+        "SAT 2026-04-04 23:43:11 EST"
       ]
     },
     {
@@ -1574,14 +1574,14 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$250K",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
         "04",
-        "23",
+        "15",
         "28",
+        "44",
         "46",
-        "48",
-        "51"
+        "52"
       ],
       "special": null,
       "detailA": [
@@ -1590,11 +1590,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:50:05 EST"
+        "SAT 2026-04-04 23:41:02 EST"
       ]
     },
     {
@@ -1605,13 +1605,13 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$200K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "09",
-        "14",
-        "34",
-        "35"
+        "06",
+        "07",
+        "15",
+        "19",
+        "21"
       ],
       "special": null,
       "detailA": [
@@ -1620,11 +1620,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:26:01 EST"
+        "SUN 2026-04-05 13:19:02 EST"
       ]
     },
     {
@@ -1635,13 +1635,13 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$200K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "15",
-        "18",
-        "21",
-        "28"
+        "09",
+        "10",
+        "29",
+        "31",
+        "35"
       ],
       "special": null,
       "detailA": [
@@ -1650,11 +1650,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:31:02 EST"
+        "SUN 2026-04-05 23:33:02 EST"
       ]
     },
     {
@@ -1664,15 +1664,15 @@ window.resultsFeedData = {
       "state": "Florida",
       "stateId": "FL",
       "tag": "Florida game",
-      "jackpot": "$275K",
-      "lastDraw": "03/31/2026",
+      "jackpot": "$325K",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "06",
-        "11",
-        "28",
-        "33",
-        "41",
-        "46"
+        "05",
+        "14",
+        "18",
+        "20",
+        "23",
+        "26"
       ],
       "special": null,
       "detailA": [
@@ -1681,11 +1681,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/07/2026"
       ],
       "detailC": [
         "Updated",
-        "TUE 2026-03-31 23:38:52 EST"
+        "FRI 2026-04-03 23:42:02 EST"
       ]
     },
     {
@@ -1696,9 +1696,9 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04"
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -1707,11 +1707,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 08:54:02 EST"
+        "SUN 2026-04-05 08:53:02 EST"
       ]
     },
     {
@@ -1722,9 +1722,9 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06"
+        "11"
       ],
       "special": null,
       "detailA": [
@@ -1733,11 +1733,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 11:53:02 EST"
+        "SUN 2026-04-05 11:53:02 EST"
       ]
     },
     {
@@ -1748,9 +1748,9 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06"
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -1759,11 +1759,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:51:05 EST"
+        "SUN 2026-04-05 14:51:02 EST"
       ]
     },
     {
@@ -1774,7 +1774,7 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "10"
       ],
@@ -1785,11 +1785,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 18:51:02 EST"
+        "SUN 2026-04-05 18:51:02 EST"
       ]
     },
     {
@@ -1800,9 +1800,9 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04"
+        "15"
       ],
       "special": null,
       "detailA": [
@@ -1811,11 +1811,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:51:02 EST"
+        "SUN 2026-04-05 23:53:02 EST"
       ]
     },
     {
@@ -1826,12 +1826,12 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "07",
+        "01",
+        "02",
         "03",
-        "07"
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -1840,11 +1840,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:48:03 EST"
+        "SUN 2026-04-05 13:50:04 EST"
       ]
     },
     {
@@ -1855,11 +1855,11 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "02",
-        "01"
+        "07",
+        "00",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -1868,11 +1868,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:48:05 EST"
+        "SUN 2026-04-05 13:50:05 EST"
       ]
     },
     {
@@ -1883,12 +1883,12 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "07",
-        "05",
-        "01",
-        "02"
+        "09",
+        "06",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -1897,11 +1897,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:01:03 EST"
+        "SUN 2026-04-05 22:01:03 EST"
       ]
     },
     {
@@ -1912,11 +1912,11 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
+        "09",
         "05",
-        "02"
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -1925,11 +1925,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:01:05 EST"
+        "SUN 2026-04-05 22:01:05 EST"
       ]
     },
     {
@@ -1940,10 +1940,10 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$50",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "02"
+        "06",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -1952,11 +1952,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:48:07 EST"
+        "SUN 2026-04-05 13:50:07 EST"
       ]
     },
     {
@@ -1967,10 +1967,10 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$50",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "03"
+        "08",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -1979,11 +1979,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:01:07 EST"
+        "SUN 2026-04-05 22:01:07 EST"
       ]
     },
     {
@@ -1994,13 +1994,13 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "00",
+        "01",
         "07",
-        "08",
-        "06"
+        "03",
+        "01",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -2009,11 +2009,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:48:01 EST"
+        "SUN 2026-04-05 13:50:02 EST"
       ]
     },
     {
@@ -2024,13 +2024,13 @@ window.resultsFeedData = {
       "stateId": "FL",
       "tag": "Florida game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "07",
         "08",
-        "05",
-        "01"
+        "04",
+        "08",
+        "06",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -2039,11 +2039,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:01:02 EST"
+        "SUN 2026-04-05 22:01:02 EST"
       ]
     },
     {
@@ -2054,26 +2054,26 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -2083,14 +2083,14 @@ window.resultsFeedData = {
       "state": "Georgia",
       "stateId": "GA",
       "tag": "Georgia game",
-      "jackpot": "$529K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$125K",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "07",
         "10",
-        "19",
-        "20",
-        "25",
-        "26"
+        "11",
+        "17",
+        "35"
       ],
       "special": null,
       "detailA": [
@@ -2099,11 +2099,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:00:02 EST"
+        "SUN 2026-04-05 23:52:01 EST"
       ]
     },
     {
@@ -2114,11 +2114,11 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "02",
-        "09",
+        "03",
+        "07",
+        "05",
         "02"
       ],
       "special": null,
@@ -2128,11 +2128,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 12:43:03 EST"
+        "SUN 2026-04-05 12:43:03 EST"
       ]
     },
     {
@@ -2143,11 +2143,11 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
+        "01",
         "02",
-        "04"
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -2156,11 +2156,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 12:43:02 EST"
+        "SUN 2026-04-05 12:43:02 EST"
       ]
     },
     {
@@ -2171,13 +2171,13 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$10K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "05",
         "01",
-        "03",
-        "07"
+        "01",
+        "04",
+        "05",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -2186,11 +2186,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 12:43:04 EST"
+        "SUN 2026-04-05 12:43:04 EST"
       ]
     },
     {
@@ -2201,12 +2201,12 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "04",
+        "08",
         "05",
-        "01",
-        "06",
-        "02"
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -2215,11 +2215,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:45:02 EST"
+        "SUN 2026-04-05 23:42:49 EST"
       ]
     },
     {
@@ -2230,11 +2230,11 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "04",
+        "03",
         "02",
-        "08",
-        "06",
         "05"
       ],
       "special": null,
@@ -2244,11 +2244,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:07:02 EST"
+        "SUN 2026-04-05 19:10:02 EST"
       ]
     },
     {
@@ -2259,11 +2259,11 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
-        "06",
-        "02"
+        "08",
+        "02",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -2272,11 +2272,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:45:01 EST"
+        "SUN 2026-04-05 23:43:30 EST"
       ]
     },
     {
@@ -2287,11 +2287,11 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "09",
-        "05"
+        "00",
+        "06",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -2300,11 +2300,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:07:02 EST"
+        "SUN 2026-04-05 19:07:32 EST"
       ]
     },
     {
@@ -2315,13 +2315,13 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$10K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "02",
         "07",
-        "06",
-        "03",
-        "09",
-        "04"
+        "00",
+        "05",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -2330,11 +2330,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:12:02 EST"
+        "SUN 2026-04-05 19:14:02 EST"
       ]
     },
     {
@@ -2345,9 +2345,9 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -2356,11 +2356,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 08:02:02 EST"
+        "SUN 2026-04-05 08:02:02 EST"
       ]
     },
     {
@@ -2371,9 +2371,9 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05"
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -2382,11 +2382,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:02:02 EST"
+        "SUN 2026-04-05 13:02:01 EST"
       ]
     },
     {
@@ -2397,7 +2397,7 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "05"
       ],
@@ -2408,11 +2408,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 17:02:02 EST"
+        "SUN 2026-04-05 17:02:02 EST"
       ]
     },
     {
@@ -2423,9 +2423,9 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08"
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -2434,11 +2434,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:03:02 EST"
+        "SUN 2026-04-05 20:03:02 EST"
       ]
     },
     {
@@ -2449,9 +2449,9 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "10"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -2460,11 +2460,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:01:32 EST"
+        "MON 2026-04-06 00:00:42 EST"
       ]
     },
     {
@@ -2475,13 +2475,13 @@ window.resultsFeedData = {
       "stateId": "IA",
       "tag": "Iowa game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -2490,11 +2490,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -2505,26 +2505,26 @@ window.resultsFeedData = {
       "stateId": "IA",
       "tag": "Iowa game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -2535,11 +2535,11 @@ window.resultsFeedData = {
       "stateId": "IA",
       "tag": "Iowa game",
       "jackpot": "$600",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "08",
-        "04"
+        "01",
+        "05",
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -2548,11 +2548,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:32:02 EST"
+        "SUN 2026-04-05 13:33:02 EST"
       ]
     },
     {
@@ -2563,12 +2563,12 @@ window.resultsFeedData = {
       "stateId": "IA",
       "tag": "Iowa game",
       "jackpot": "$6K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
+        "04",
         "06",
-        "09",
-        "01"
+        "07",
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -2577,11 +2577,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:32:03 EST"
+        "SUN 2026-04-05 13:33:03 EST"
       ]
     },
     {
@@ -2592,11 +2592,11 @@ window.resultsFeedData = {
       "stateId": "IA",
       "tag": "Iowa game",
       "jackpot": "$600",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "05",
-        "06"
+        "07",
+        "09",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -2605,11 +2605,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:04:05 EST"
+        "SUN 2026-04-05 23:02:55 EST"
       ]
     },
     {
@@ -2620,12 +2620,12 @@ window.resultsFeedData = {
       "stateId": "IA",
       "tag": "Iowa game",
       "jackpot": "$6K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "02",
-        "04",
-        "06"
+        "09",
+        "08",
+        "07",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -2634,11 +2634,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:04:06 EST"
+        "SUN 2026-04-05 23:02:56 EST"
       ]
     },
     {
@@ -2649,13 +2649,13 @@ window.resultsFeedData = {
       "stateId": "ID",
       "tag": "Idaho game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -2664,11 +2664,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -2679,26 +2679,26 @@ window.resultsFeedData = {
       "stateId": "ID",
       "tag": "Idaho game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -2708,14 +2708,14 @@ window.resultsFeedData = {
       "state": "Idaho",
       "stateId": "ID",
       "tag": "Idaho game",
-      "jackpot": "$111.4K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$117K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "15",
-        "24",
-        "27",
-        "30",
-        "37"
+        "03",
+        "05",
+        "17",
+        "26",
+        "29"
       ],
       "special": null,
       "detailA": [
@@ -2724,11 +2724,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:33:02 EST"
+        "SUN 2026-04-05 22:33:02 EST"
       ]
     },
     {
@@ -2739,11 +2739,11 @@ window.resultsFeedData = {
       "stateId": "ID",
       "tag": "Idaho game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "02",
-        "02"
+        "04",
+        "03",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -2752,11 +2752,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 16:17:02 EST"
+        "SUN 2026-04-05 16:21:01 EST"
       ]
     },
     {
@@ -2767,12 +2767,12 @@ window.resultsFeedData = {
       "stateId": "ID",
       "tag": "Idaho game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "08",
-        "04",
-        "00"
+        "00",
+        "06",
+        "00",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -2781,11 +2781,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 16:17:03 EST"
+        "SUN 2026-04-05 16:21:02 EST"
       ]
     },
     {
@@ -2796,11 +2796,11 @@ window.resultsFeedData = {
       "stateId": "ID",
       "tag": "Idaho game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "00",
-        "08"
+        "04",
+        "03",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -2809,11 +2809,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:25:45 EST"
+        "SUN 2026-04-05 22:21:45 EST"
       ]
     },
     {
@@ -2824,12 +2824,12 @@ window.resultsFeedData = {
       "stateId": "ID",
       "tag": "Idaho game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "03",
-        "05",
-        "07"
+        "04",
+        "04",
+        "06",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -2838,11 +2838,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:25:46 EST"
+        "SUN 2026-04-05 22:21:46 EST"
       ]
     },
     {
@@ -2852,15 +2852,15 @@ window.resultsFeedData = {
       "state": "Illinois",
       "stateId": "IL",
       "tag": "Illinois game",
-      "jackpot": "$2.6M",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$2.8M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "02",
-        "19",
-        "27",
+        "04",
+        "11",
+        "21",
         "28",
-        "29",
-        "31"
+        "33",
+        "45"
       ],
       "special": null,
       "detailA": [
@@ -2869,11 +2869,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:38:20 EST"
+        "SAT 2026-04-04 22:40:02 EST"
       ]
     },
     {
@@ -2883,14 +2883,14 @@ window.resultsFeedData = {
       "state": "Illinois",
       "stateId": "IL",
       "tag": "Illinois game",
-      "jackpot": "$400K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$100K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "06",
-        "15",
-        "18",
-        "42"
+        "05",
+        "11",
+        "25",
+        "27",
+        "44"
       ],
       "special": null,
       "detailA": [
@@ -2899,11 +2899,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:54:01 EST"
+        "SUN 2026-04-05 13:57:02 EST"
       ]
     },
     {
@@ -2914,12 +2914,12 @@ window.resultsFeedData = {
       "stateId": "IL",
       "tag": "Illinois game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "01",
+        "05",
         "02",
-        "04",
-        "03",
-        "01"
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -2928,11 +2928,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:54:04 EST"
+        "SUN 2026-04-05 13:57:04 EST"
       ]
     },
     {
@@ -2943,11 +2943,11 @@ window.resultsFeedData = {
       "stateId": "IL",
       "tag": "Illinois game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "02",
-        "04"
+        "07",
+        "01",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -2956,11 +2956,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:54:02 EST"
+        "SUN 2026-04-05 13:57:03 EST"
       ]
     },
     {
@@ -2970,14 +2970,14 @@ window.resultsFeedData = {
       "state": "Illinois",
       "stateId": "IL",
       "tag": "Illinois game",
-      "jackpot": "$350K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "15",
-        "38",
-        "39",
-        "40",
-        "42"
+        "13",
+        "22",
+        "27",
+        "43",
+        "44"
       ],
       "special": null,
       "detailA": [
@@ -2986,11 +2986,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:37:34 EST"
+        "SUN 2026-04-05 22:36:28 EST"
       ]
     },
     {
@@ -3001,12 +3001,12 @@ window.resultsFeedData = {
       "stateId": "IL",
       "tag": "Illinois game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
+        "05",
         "08",
-        "06",
-        "04"
+        "00",
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -3015,11 +3015,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:38:01 EST"
+        "SUN 2026-04-05 22:37:03 EST"
       ]
     },
     {
@@ -3030,11 +3030,11 @@ window.resultsFeedData = {
       "stateId": "IL",
       "tag": "Illinois game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "03",
         "04",
-        "00",
-        "09"
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -3043,11 +3043,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:38:00 EST"
+        "SUN 2026-04-05 22:36:02 EST"
       ]
     },
     {
@@ -3058,26 +3058,26 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -3087,15 +3087,15 @@ window.resultsFeedData = {
       "state": "Indiana",
       "stateId": "IN",
       "tag": "Indiana game",
-      "jackpot": "$18.2M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$18.4M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "05",
-        "06",
-        "14",
-        "22",
-        "28",
-        "29"
+        "02",
+        "04",
+        "10",
+        "17",
+        "27",
+        "45"
       ],
       "special": null,
       "detailA": [
@@ -3104,11 +3104,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:13:52 EST"
+        "SAT 2026-04-04 23:31:03 EST"
       ]
     },
     {
@@ -3119,14 +3119,14 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "16",
-        "19",
-        "24",
-        "27",
-        "33",
-        "39"
+        "06",
+        "15",
+        "20",
+        "28",
+        "35",
+        "42"
       ],
       "special": null,
       "detailA": [
@@ -3135,11 +3135,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:16:32 EST"
+        "SAT 2026-04-04 23:31:04 EST"
       ]
     },
     {
@@ -3149,14 +3149,14 @@ window.resultsFeedData = {
       "state": "Indiana",
       "stateId": "IN",
       "tag": "Indiana game",
-      "jackpot": "$202.5K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$256K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "12",
-        "24",
-        "35",
-        "39"
+        "04",
+        "17",
+        "23",
+        "25",
+        "37"
       ],
       "special": null,
       "detailA": [
@@ -3165,11 +3165,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:18:02 EST"
+        "SUN 2026-04-05 23:27:30 EST"
       ]
     },
     {
@@ -3180,28 +3180,28 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$300K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "08",
+        "09",
         "14",
         "18",
         "19",
-        "31",
-        "33",
-        "34",
-        "38",
+        "20",
+        "27",
+        "32",
         "41",
         "42",
         "43",
-        "46",
+        "44",
         "47",
-        "58",
+        "48",
+        "50",
+        "59",
+        "62",
         "63",
-        "68",
-        "73",
-        "74",
-        "75"
+        "70",
+        "75",
+        "77"
       ],
       "special": null,
       "detailA": [
@@ -3210,11 +3210,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:34:03 EST"
+        "SUN 2026-04-05 13:48:02 EST"
       ]
     },
     {
@@ -3225,28 +3225,28 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$300K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "04",
+        "06",
         "08",
-        "09",
+        "16",
+        "21",
         "26",
-        "28",
-        "30",
-        "31",
-        "32",
-        "35",
-        "37",
-        "41",
-        "43",
-        "47",
+        "29",
+        "38",
+        "40",
         "48",
-        "51",
-        "53",
-        "59",
+        "50",
+        "54",
+        "55",
+        "57",
+        "61",
+        "62",
         "63",
-        "67",
-        "70",
-        "77"
+        "66",
+        "72",
+        "79"
       ],
       "special": null,
       "detailA": [
@@ -3255,11 +3255,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:15:02 EST"
+        "SUN 2026-04-05 23:15:02 EST"
       ]
     },
     {
@@ -3270,12 +3270,12 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "08",
-        "03",
-        "03"
+        "09",
+        "04",
+        "01",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -3284,11 +3284,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:34:01 EST"
+        "SUN 2026-04-05 13:31:02 EST"
       ]
     },
     {
@@ -3299,11 +3299,11 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "00",
-        "07",
-        "00"
+        "02",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -3312,11 +3312,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:38:02 EST"
+        "SUN 2026-04-05 13:31:04 EST"
       ]
     },
     {
@@ -3327,12 +3327,12 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "05",
+        "02",
         "09",
-        "06",
-        "03",
-        "06"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -3341,11 +3341,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:18:03 EST"
+        "SUN 2026-04-05 23:11:07 EST"
       ]
     },
     {
@@ -3356,11 +3356,11 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
-        "09",
-        "05"
+        "02",
+        "02",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -3369,11 +3369,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:08:02 EST"
+        "SUN 2026-04-05 23:15:03 EST"
       ]
     },
     {
@@ -3384,9 +3384,9 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02"
+        "12"
       ],
       "special": null,
       "detailA": [
@@ -3395,11 +3395,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 09:34:02 EST"
+        "SUN 2026-04-05 09:36:01 EST"
       ]
     },
     {
@@ -3410,9 +3410,9 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02"
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -3421,11 +3421,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 13:43:02 EST"
+        "SUN 2026-04-05 13:43:01 EST"
       ]
     },
     {
@@ -3436,9 +3436,9 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "15"
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -3447,11 +3447,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 15:32:02 EST"
+        "SUN 2026-04-05 15:34:02 EST"
       ]
     },
     {
@@ -3462,9 +3462,9 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "15"
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -3473,11 +3473,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:32:01 EST"
+        "SUN 2026-04-05 19:33:48 EST"
       ]
     },
     {
@@ -3488,9 +3488,9 @@ window.resultsFeedData = {
       "stateId": "IN",
       "tag": "Indiana game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03"
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -3499,11 +3499,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:34:01 EST"
+        "SUN 2026-04-05 23:32:02 EST"
       ]
     },
     {
@@ -3514,13 +3514,13 @@ window.resultsFeedData = {
       "stateId": "KS",
       "tag": "Kansas game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -3529,11 +3529,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -3544,26 +3544,26 @@ window.resultsFeedData = {
       "stateId": "KS",
       "tag": "Kansas game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -3573,14 +3573,14 @@ window.resultsFeedData = {
       "state": "Kansas",
       "stateId": "KS",
       "tag": "Kansas game",
-      "jackpot": "$450K",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$460K",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "11",
-        "19",
-        "20",
-        "25",
-        "26"
+        "06",
+        "07",
+        "15",
+        "29",
+        "30"
       ],
       "special": null,
       "detailA": [
@@ -3589,11 +3589,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:44:15 EST"
+        "SUN 2026-04-05 00:09:50 EST"
       ]
     },
     {
@@ -3604,10 +3604,10 @@ window.resultsFeedData = {
       "stateId": "KS",
       "tag": "Kansas game",
       "jackpot": "$22K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "08"
+        "10",
+        "19"
       ],
       "special": null,
       "detailA": [
@@ -3616,11 +3616,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:23:02 EST"
+        "SUN 2026-04-05 22:21:16 EST"
       ]
     },
     {
@@ -3631,10 +3631,10 @@ window.resultsFeedData = {
       "stateId": "KS",
       "tag": "Kansas game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "08",
+        "02",
+        "03",
         "01"
       ],
       "special": null,
@@ -3644,11 +3644,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 18:30:43 EST"
+        "SUN 2026-04-05 15:12:02 EST"
       ]
     },
     {
@@ -3659,11 +3659,11 @@ window.resultsFeedData = {
       "stateId": "KS",
       "tag": "Kansas game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
         "00",
-        "09"
+        "00",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -3672,11 +3672,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:01:37 EST"
+        "SUN 2026-04-05 23:26:50 EST"
       ]
     },
     {
@@ -3687,26 +3687,26 @@ window.resultsFeedData = {
       "stateId": "KY",
       "tag": "Kentucky game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -3717,12 +3717,12 @@ window.resultsFeedData = {
       "stateId": "KY",
       "tag": "Kentucky game",
       "jackpot": "$225K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "20",
-        "31",
-        "32",
-        "34"
+        "03",
+        "05",
+        "09",
+        "17"
       ],
       "special": null,
       "detailA": [
@@ -3731,11 +3731,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:04:04 EST"
+        "SUN 2026-04-05 23:05:34 EST"
       ]
     },
     {
@@ -3746,12 +3746,12 @@ window.resultsFeedData = {
       "stateId": "KY",
       "tag": "Kentucky game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "07",
-        "02",
-        "07"
+        "03",
+        "06",
+        "01",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -3760,11 +3760,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:31:03 EST"
+        "SUN 2026-04-05 13:31:07 EST"
       ]
     },
     {
@@ -3775,10 +3775,10 @@ window.resultsFeedData = {
       "stateId": "KY",
       "tag": "Kentucky game",
       "jackpot": "$600",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "06",
+        "05",
+        "00",
         "02"
       ],
       "special": null,
@@ -3788,11 +3788,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:31:02 EST"
+        "SUN 2026-04-05 13:31:06 EST"
       ]
     },
     {
@@ -3803,12 +3803,12 @@ window.resultsFeedData = {
       "stateId": "KY",
       "tag": "Kentucky game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "03",
-        "06",
-        "01"
+        "00",
+        "07",
+        "00",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -3817,11 +3817,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:04:03 EST"
+        "SUN 2026-04-05 23:05:22 EST"
       ]
     },
     {
@@ -3832,11 +3832,11 @@ window.resultsFeedData = {
       "stateId": "KY",
       "tag": "Kentucky game",
       "jackpot": "$600",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "07",
-        "04"
+        "00",
+        "04",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -3845,11 +3845,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:04:02 EST"
+        "SUN 2026-04-05 23:05:23 EST"
       ]
     },
     {
@@ -3860,14 +3860,14 @@ window.resultsFeedData = {
       "stateId": "LA",
       "tag": "Louisiana game",
       "jackpot": "$1.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "09",
-        "14",
-        "15",
-        "28",
-        "29",
-        "37"
+        "04",
+        "10",
+        "12",
+        "26",
+        "35",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -3876,11 +3876,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 00:25:22 EST"
+        "SUN 2026-04-05 00:43:45 EST"
       ]
     },
     {
@@ -3890,14 +3890,14 @@ window.resultsFeedData = {
       "state": "Louisiana",
       "stateId": "LA",
       "tag": "Louisiana game",
-      "jackpot": "$410K",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$430K",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "02",
-        "14",
-        "20",
-        "33",
-        "36"
+        "11",
+        "23",
+        "26",
+        "28",
+        "35"
       ],
       "special": null,
       "detailA": [
@@ -3906,11 +3906,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 00:25:23 EST"
+        "SUN 2026-04-05 00:43:46 EST"
       ]
     },
     {
@@ -3921,12 +3921,12 @@ window.resultsFeedData = {
       "stateId": "LA",
       "tag": "Louisiana game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "01",
-        "01",
         "00",
-        "09"
+        "07",
+        "08",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -3935,11 +3935,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/05/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:24:07 EST"
+        "SUN 2026-04-05 00:43:47 EST"
       ]
     },
     {
@@ -3950,11 +3950,11 @@ window.resultsFeedData = {
       "stateId": "LA",
       "tag": "Louisiana game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "05",
-        "05",
-        "09"
+        "04",
+        "00",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -3963,11 +3963,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/05/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:24:08 EST"
+        "SUN 2026-04-05 00:43:48 EST"
       ]
     },
     {
@@ -3978,13 +3978,13 @@ window.resultsFeedData = {
       "stateId": "LA",
       "tag": "Louisiana game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "03",
+        "01",
         "09",
+        "06",
         "04",
-        "03",
-        "04"
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -3993,11 +3993,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/05/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:24:09 EST"
+        "SUN 2026-04-05 00:43:49 EST"
       ]
     },
     {
@@ -4008,26 +4008,26 @@ window.resultsFeedData = {
       "stateId": "MA",
       "tag": "Massachusetts game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -4037,15 +4037,15 @@ window.resultsFeedData = {
       "state": "Massachusetts",
       "stateId": "MA",
       "tag": "Massachusetts game",
-      "jackpot": "$14.7M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$14.8M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "07",
+        "02",
+        "04",
         "08",
-        "20",
-        "22",
+        "09",
         "24",
-        "35"
+        "31"
       ],
       "special": null,
       "detailA": [
@@ -4054,11 +4054,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 21:20:42 EST"
+        "SAT 2026-04-04 21:14:38 EST"
       ]
     },
     {
@@ -4069,13 +4069,13 @@ window.resultsFeedData = {
       "stateId": "MA",
       "tag": "Massachusetts game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "10",
+        "11",
+        "13",
+        "14",
         "15",
-        "19",
-        "24",
-        "32"
+        "16"
       ],
       "special": null,
       "detailA": [
@@ -4084,11 +4084,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:13:01 EST"
+        "SUN 2026-04-05 14:15:02 EST"
       ]
     },
     {
@@ -4099,13 +4099,13 @@ window.resultsFeedData = {
       "stateId": "MA",
       "tag": "Massachusetts game",
       "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "11",
-        "19",
-        "26",
-        "28"
+        "07",
+        "21",
+        "22",
+        "25",
+        "33"
       ],
       "special": null,
       "detailA": [
@@ -4114,11 +4114,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:13:02 EST"
+        "SUN 2026-04-05 21:15:02 EST"
       ]
     },
     {
@@ -4129,12 +4129,12 @@ window.resultsFeedData = {
       "stateId": "MA",
       "tag": "Massachusetts game",
       "jackpot": "Average 5000",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "01",
-        "01",
-        "02"
+        "07",
+        "08",
+        "05",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -4143,11 +4143,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:11:02 EST"
+        "SUN 2026-04-05 14:13:02 EST"
       ]
     },
     {
@@ -4158,12 +4158,12 @@ window.resultsFeedData = {
       "stateId": "MA",
       "tag": "Massachusetts game",
       "jackpot": "Average 5000",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "08",
+        "09",
         "01",
-        "08"
+        "01",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -4172,11 +4172,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:14:02 EST"
+        "SUN 2026-04-05 21:13:59 EST"
       ]
     },
     {
@@ -4218,26 +4218,26 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "23",
-        "32",
-        "33",
-        "36",
-        "39"
+        "12",
+        "20",
+        "21",
+        "34",
+        "38"
       ],
-      "special": "05",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:02:04 EST"
+        "SUN 2026-04-05 20:14:31 EST"
       ]
     },
     {
@@ -4248,13 +4248,13 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "09",
         "06",
-        "06",
-        "02",
-        "03",
-        "07"
+        "04",
+        "00",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -4263,11 +4263,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 16:53:04 EST"
+        "SUN 2026-04-05 19:03:32 EST"
       ]
     },
     {
@@ -4278,12 +4278,12 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "06",
-        "04",
-        "05",
-        "01"
+        "08",
+        "08",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -4292,11 +4292,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 16:53:03 EST"
+        "SUN 2026-04-05 19:03:33 EST"
       ]
     },
     {
@@ -4307,11 +4307,11 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "00",
-        "04"
+        "05",
+        "07",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -4320,11 +4320,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 16:53:02 EST"
+        "SUN 2026-04-05 19:03:34 EST"
       ]
     },
     {
@@ -4335,13 +4335,13 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "08",
         "09",
-        "02",
-        "01",
-        "05",
-        "05"
+        "06",
+        "00",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -4350,11 +4350,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:42:04 EST"
+        "SUN 2026-04-05 20:14:03 EST"
       ]
     },
     {
@@ -4365,12 +4365,12 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "08",
-        "04",
-        "00",
-        "04"
+        "08",
+        "03",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -4379,11 +4379,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:42:03 EST"
+        "SUN 2026-04-05 20:14:02 EST"
       ]
     },
     {
@@ -4394,11 +4394,11 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "03",
-        "07",
-        "01"
+        "06",
+        "04",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -4407,11 +4407,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:42:02 EST"
+        "SUN 2026-04-05 20:14:01 EST"
       ]
     },
     {
@@ -4422,371 +4422,7 @@ window.resultsFeedData = {
       "stateId": "MD",
       "tag": "Maryland game",
       "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "10"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 09:09:11 EST"
-      ]
-    },
-    {
-      "id": "md-mdn",
-      "type": "state",
-      "name": " Cash Pop 1pm",
-      "state": "Maryland",
-      "stateId": "MD",
-      "tag": "Maryland game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:10:02 EST"
-      ]
-    },
-    {
-      "id": "md-mdo",
-      "type": "state",
-      "name": "Cash Pop 6pm",
-      "state": "Maryland",
-      "stateId": "MD",
-      "tag": "Maryland game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "09"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 18:10:01 EST"
-      ]
-    },
-    {
-      "id": "md-mdp",
-      "type": "state",
-      "name": "Cash Pop 11pm",
-      "state": "Maryland",
-      "stateId": "MD",
-      "tag": "Maryland game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:00:04 EST"
-      ]
-    },
-    {
-      "id": "me-128",
-      "type": "state",
-      "name": "Megabucks Plus",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$3.5M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "05",
-        "22",
-        "31",
-        "33",
-        "36"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 20:11:04 EST"
-      ]
-    },
-    {
-      "id": "me-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "me-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "me-133",
-      "type": "state",
-      "name": "Gimme 5",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "12",
-        "16",
-        "19",
-        "32",
-        "33"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:11:02 EST"
-      ]
-    },
-    {
-      "id": "me-116",
-      "type": "state",
-      "name": "Pick 4 Day",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "01",
-        "05",
-        "05",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:33:04 EST"
-      ]
-    },
-    {
-      "id": "me-115",
-      "type": "state",
-      "name": "Pick 3 Day",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$500",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "07",
-        "01",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:33:02 EST"
-      ]
-    },
-    {
-      "id": "me-110",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "09",
-        "06",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:13:03 EST"
-      ]
-    },
-    {
-      "id": "me-109",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "02",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:13:02 EST"
-      ]
-    },
-    {
-      "id": "me-mee",
-      "type": "state",
-      "name": "Cash Pop Early Bird",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 08:37:02 EST"
-      ]
-    },
-    {
-      "id": "me-meb",
-      "type": "state",
-      "name": "Cash Pop Brunch",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "12"
       ],
@@ -4797,22 +4433,74 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 11:39:02 EST"
+        "SUN 2026-04-05 09:08:44 EST"
       ]
     },
     {
-      "id": "me-mem",
+      "id": "md-mdn",
       "type": "state",
-      "name": "Cash Pop Matinee",
-      "state": "Maine",
-      "stateId": "ME",
-      "tag": "Maine game",
+      "name": " Cash Pop 1pm",
+      "state": "Maryland",
+      "stateId": "MD",
+      "tag": "Maryland game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:06:02 EST"
+      ]
+    },
+    {
+      "id": "md-mdo",
+      "type": "state",
+      "name": "Cash Pop 6pm",
+      "state": "Maryland",
+      "stateId": "MD",
+      "tag": "Maryland game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 18:09:04 EST"
+      ]
+    },
+    {
+      "id": "md-mdp",
+      "type": "state",
+      "name": "Cash Pop 11pm",
+      "state": "Maryland",
+      "stateId": "MD",
+      "tag": "Maryland game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "09"
       ],
@@ -4823,11 +4511,323 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:37:01 EST"
+        "MON 2026-04-06 02:22:01 EST"
+      ]
+    },
+    {
+      "id": "me-128",
+      "type": "state",
+      "name": "Megabucks Plus",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$3.5M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "17",
+        "20",
+        "24",
+        "27",
+        "32"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 20:12:02 EST"
+      ]
+    },
+    {
+      "id": "me-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "me-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "me-133",
+      "type": "state",
+      "name": "Gimme 5",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$100K",
+      "lastDraw": "04/03/2026",
+      "numbers": [
+        "19",
+        "34",
+        "36",
+        "37",
+        "39"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "FRI 2026-04-03 19:12:55 EST"
+      ]
+    },
+    {
+      "id": "me-116",
+      "type": "state",
+      "name": "Pick 4 Day",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "08",
+        "05",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:26:03 EST"
+      ]
+    },
+    {
+      "id": "me-115",
+      "type": "state",
+      "name": "Pick 3 Day",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "08",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:26:01 EST"
+      ]
+    },
+    {
+      "id": "me-110",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "04",
+        "09",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:06:04 EST"
+      ]
+    },
+    {
+      "id": "me-109",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "07",
+        "02"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:06:02 EST"
+      ]
+    },
+    {
+      "id": "me-mee",
+      "type": "state",
+      "name": "Cash Pop Early Bird",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "15"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 08:37:02 EST"
+      ]
+    },
+    {
+      "id": "me-meb",
+      "type": "state",
+      "name": "Cash Pop Brunch",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "14"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 11:38:02 EST"
+      ]
+    },
+    {
+      "id": "me-mem",
+      "type": "state",
+      "name": "Cash Pop Matinee",
+      "state": "Maine",
+      "stateId": "ME",
+      "tag": "Maine game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "09"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:38:02 EST"
       ]
     },
     {
@@ -4838,7 +4838,7 @@ window.resultsFeedData = {
       "stateId": "ME",
       "tag": "Maine game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "11"
       ],
@@ -4849,11 +4849,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 18:38:02 EST"
+        "SUN 2026-04-05 18:37:02 EST"
       ]
     },
     {
@@ -4864,9 +4864,9 @@ window.resultsFeedData = {
       "stateId": "ME",
       "tag": "Maine game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05"
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -4875,11 +4875,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:38:02 EST"
+        "SUN 2026-04-05 23:38:01 EST"
       ]
     },
     {
@@ -4890,26 +4890,26 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -4919,15 +4919,15 @@ window.resultsFeedData = {
       "state": "Michigan",
       "stateId": "MI",
       "tag": "Michigan game",
-      "jackpot": "$1.1M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$1.2M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "11",
-        "17",
-        "29",
-        "38",
-        "40",
-        "43"
+        "02",
+        "05",
+        "10",
+        "22",
+        "31",
+        "46"
       ],
       "special": null,
       "detailA": [
@@ -4936,11 +4936,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 19:53:09 EST"
+        "SAT 2026-04-04 20:09:19 EST"
       ]
     },
     {
@@ -4951,14 +4951,14 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$1.5M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "11",
-        "15",
-        "16",
-        "23",
-        "30",
-        "46"
+        "03",
+        "10",
+        "14",
+        "24",
+        "26",
+        "34"
       ],
       "special": null,
       "detailA": [
@@ -4967,11 +4967,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 19:53:09 EST"
+        "SAT 2026-04-04 20:09:20 EST"
       ]
     },
     {
@@ -4981,14 +4981,14 @@ window.resultsFeedData = {
       "state": "Michigan",
       "stateId": "MI",
       "tag": "Michigan game",
-      "jackpot": "$115K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$105K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "24",
-        "26",
-        "28"
+        "04",
+        "12",
+        "28",
+        "29",
+        "32"
       ],
       "special": null,
       "detailA": [
@@ -4997,11 +4997,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:04:18 EST"
+        "SUN 2026-04-05 20:04:05 EST"
       ]
     },
     {
@@ -5012,13 +5012,13 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$110K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
-        "06",
-        "07",
-        "19",
-        "25"
+        "02",
+        "14",
+        "16",
+        "34",
+        "38"
       ],
       "special": null,
       "detailA": [
@@ -5027,11 +5027,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:04:19 EST"
+        "SUN 2026-04-05 20:04:06 EST"
       ]
     },
     {
@@ -5042,30 +5042,30 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$250K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "13",
-        "14",
-        "20",
+        "01",
+        "05",
+        "15",
+        "21",
         "23",
         "24",
-        "27",
-        "33",
-        "35",
-        "36",
+        "28",
         "38",
-        "46",
-        "50",
+        "47",
+        "48",
         "52",
-        "53",
+        "54",
         "55",
-        "61",
-        "64",
-        "66",
+        "56",
+        "57",
+        "58",
+        "59",
+        "63",
         "68",
-        "70",
-        "79"
+        "69",
+        "73",
+        "74"
       ],
       "special": null,
       "detailA": [
@@ -5074,11 +5074,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:04:20 EST"
+        "SUN 2026-04-05 20:04:06 EST"
       ]
     },
     {
@@ -5089,12 +5089,12 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
         "03",
-        "08",
-        "03"
+        "07",
+        "06",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -5103,11 +5103,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:13:11 EST"
+        "SUN 2026-04-05 13:13:02 EST"
       ]
     },
     {
@@ -5118,11 +5118,11 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
-        "00",
-        "08"
+        "03",
+        "05",
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -5131,11 +5131,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:13:10 EST"
+        "SUN 2026-04-05 13:13:01 EST"
       ]
     },
     {
@@ -5146,12 +5146,12 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "00",
-        "01",
-        "05"
+        "02",
+        "02",
+        "04",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -5160,11 +5160,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:04:21 EST"
+        "SUN 2026-04-05 20:04:04 EST"
       ]
     },
     {
@@ -5175,11 +5175,11 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
+        "03",
         "07",
-        "02"
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -5188,11 +5188,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 20:04:22 EST"
+        "SUN 2026-04-05 20:00:27 EST"
       ]
     },
     {
@@ -5203,11 +5203,11 @@ window.resultsFeedData = {
       "stateId": "MI",
       "tag": "Michigan game",
       "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "10",
-        "05",
-        "04"
+        "03",
+        "08",
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -5216,11 +5216,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:52:01 EST"
+        "SUN 2026-04-05 20:00:01 EST"
       ]
     },
     {
@@ -5231,13 +5231,13 @@ window.resultsFeedData = {
       "stateId": "MN",
       "tag": "Minnesota game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -5246,11 +5246,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -5260,14 +5260,14 @@ window.resultsFeedData = {
       "state": "Minnesota",
       "stateId": "MN",
       "tag": "Minnesota game",
-      "jackpot": "$395K",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$430K",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "05",
-        "19",
-        "25",
+        "15",
+        "16",
+        "29",
         "34",
-        "37"
+        "47"
       ],
       "special": null,
       "detailA": [
@@ -5276,11 +5276,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 19:32:52 EST"
+        "FRI 2026-04-03 19:35:27 EST"
       ]
     },
     {
@@ -5290,14 +5290,14 @@ window.resultsFeedData = {
       "state": "Minnesota",
       "stateId": "MN",
       "tag": "Minnesota game",
-      "jackpot": "$27K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$33K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "12",
-        "21",
-        "24",
-        "29"
+        "15",
+        "18",
+        "23",
+        "26",
+        "32"
       ],
       "special": null,
       "detailA": [
@@ -5306,11 +5306,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:33:02 EST"
+        "SUN 2026-04-05 19:38:02 EST"
       ]
     },
     {
@@ -5321,11 +5321,11 @@ window.resultsFeedData = {
       "stateId": "MN",
       "tag": "Minnesota game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "01",
-        "04",
-        "02"
+        "09",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -5334,11 +5334,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:36:47 EST"
+        "SUN 2026-04-05 19:42:01 EST"
       ]
     },
     {
@@ -5348,11 +5348,3047 @@ window.resultsFeedData = {
       "state": "Missouri",
       "stateId": "MO",
       "tag": "Missouri game",
-      "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$88K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08",
+        "20",
+        "23",
+        "29",
+        "35"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:10:02 EST"
+      ]
+    },
+    {
+      "id": "mo-moh",
+      "type": "state",
+      "name": "MO Millions Main",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$2.5M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "14",
+        "15",
+        "18",
+        "27",
+        "28",
+        "31"
+      ],
+      "special": "27",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/08/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:24:01 EST"
+      ]
+    },
+    {
+      "id": "mo-moi",
+      "type": "state",
+      "name": "MO Millions Double Play",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "12",
+        "13",
+        "14",
+        "24",
+        "30",
+        "33"
+      ],
+      "special": "33",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/08/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:24:02 EST"
+      ]
+    },
+    {
+      "id": "mo-mom",
+      "type": "state",
+      "name": "Cash Pop Early Bird",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "12"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 09:04:03 EST"
+      ]
+    },
+    {
+      "id": "mo-mon",
+      "type": "state",
+      "name": "Cash Pop Late Morning",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 12:04:01 EST"
+      ]
+    },
+    {
+      "id": "mo-moo",
+      "type": "state",
+      "name": "Cash Pop Matinee",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 16:04:02 EST"
+      ]
+    },
+    {
+      "id": "mo-mop",
+      "type": "state",
+      "name": "Cash Pop Prime Time",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "15"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 20:04:02 EST"
+      ]
+    },
+    {
+      "id": "mo-moq",
+      "type": "state",
+      "name": "Cash Pop Night Owl",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "MON 2026-04-06 00:03:12 EST"
+      ]
+    },
+    {
+      "id": "mo-mod",
+      "type": "state",
+      "name": "Pick 4 Midday",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$6K",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "03",
+        "03",
+        "05",
+        "04"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:56:02 EST"
+      ]
+    },
+    {
+      "id": "mo-mob",
+      "type": "state",
+      "name": "Pick 3 Midday",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$600",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00",
+        "05",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:54:02 EST"
+      ]
+    },
+    {
+      "id": "mo-moc",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$6K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "07",
         "09",
+        "04"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:14:13 EST"
+      ]
+    },
+    {
+      "id": "mo-moa",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "$600",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "09",
+        "05",
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:11:02 EST"
+      ]
+    },
+    {
+      "id": "mo-moaw",
+      "type": "state",
+      "name": "Pick 3 Evening Wild",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:11:03 EST"
+      ]
+    },
+    {
+      "id": "mo-mobw",
+      "type": "state",
+      "name": "Pick 3 Midday Wild",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:54:02 EST"
+      ]
+    },
+    {
+      "id": "mo-mocw",
+      "type": "state",
+      "name": "Pick 4 Evening Wild",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:14:14 EST"
+      ]
+    },
+    {
+      "id": "mo-modw",
+      "type": "state",
+      "name": "Pick 4 Midday Wild",
+      "state": "Missouri",
+      "stateId": "MO",
+      "tag": "Missouri game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:56:03 EST"
+      ]
+    },
+    {
+      "id": "ms-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "ms-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "ms-ms5",
+      "type": "state",
+      "name": "Match 5",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$290K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "15",
+        "19",
+        "21",
+        "23",
+        "27"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:40:28 EST"
+      ]
+    },
+    {
+      "id": "ms-msm",
+      "type": "state",
+      "name": "Cash Pop Midday",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "10"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:41:02 EST"
+      ]
+    },
+    {
+      "id": "ms-msp",
+      "type": "state",
+      "name": "Cash Pop Evening",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$250",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:40:03 EST"
+      ]
+    },
+    {
+      "id": "ms-msd",
+      "type": "state",
+      "name": "Cash 4 Midday",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "02",
+        "01",
+        "02"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:37:02 EST"
+      ]
+    },
+    {
+      "id": "ms-msb",
+      "type": "state",
+      "name": "Cash 3 Midday",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "06",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:37:04 EST"
+      ]
+    },
+    {
+      "id": "ms-msc",
+      "type": "state",
+      "name": "Cash 4 Evening",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "09",
+        "02",
+        "09"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:40:03 EST"
+      ]
+    },
+    {
+      "id": "ms-msa",
+      "type": "state",
+      "name": "Cash 3 Evening",
+      "state": "Mississippi",
+      "stateId": "MS",
+      "tag": "Mississippi game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "01",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:40:05 EST"
+      ]
+    },
+    {
+      "id": "mt-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Montana",
+      "stateId": "MT",
+      "tag": "Montana game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "mt-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "Montana",
+      "stateId": "MT",
+      "tag": "Montana game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "mt-mt1",
+      "type": "state",
+      "name": "Montana Cash",
+      "state": "Montana",
+      "stateId": "MT",
+      "tag": "Montana game",
+      "jackpot": "$250K",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "04",
+        "07",
+        "13",
+        "17",
+        "29"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/08/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:02:02 EST"
+      ]
+    },
+    {
+      "id": "mt-mt4",
+      "type": "state",
+      "name": "Big Sky Bonus",
+      "state": "Montana",
+      "stateId": "MT",
+      "tag": "Montana game",
+      "jackpot": "$9.3K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "05",
+        "19",
+        "28"
+      ],
+      "special": "05",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 21:32:01 EST"
+      ]
+    },
+    {
+      "id": "nc-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "nc-nc1",
+      "type": "state",
+      "name": "Cash 5",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "$173K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "25",
+        "31",
+        "32",
+        "42"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "MON 2026-04-06 01:10:02 EST"
+      ]
+    },
+    {
+      "id": "nc-nc1d",
+      "type": "state",
+      "name": "Double Play",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "$50K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "14",
+        "15",
+        "25",
+        "26",
+        "29"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "MON 2026-04-06 01:10:03 EST"
+      ]
+    },
+    {
+      "id": "nc-ncd",
+      "type": "state",
+      "name": "Pick 4 Day",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "06",
+        "09",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:21:03 EST"
+      ]
+    },
+    {
+      "id": "nc-ncc",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "09",
+        "06",
+        "09"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:25:11 EST"
+      ]
+    },
+    {
+      "id": "nc-ncb",
+      "type": "state",
+      "name": "Pick 3 Day",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "03",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:21:02 EST"
+      ]
+    },
+    {
+      "id": "nc-nca",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "00",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:25:12 EST"
+      ]
+    },
+    {
+      "id": "nc-ncm",
+      "type": "state",
+      "name": "Cash Pop Morning Buzz",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 09:04:04 EST"
+      ]
+    },
+    {
+      "id": "nc-ncn",
+      "type": "state",
+      "name": "Cash Pop Lunch Rush",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:07:05 EST"
+      ]
+    },
+    {
+      "id": "nc-nco",
+      "type": "state",
+      "name": "Cash Pop Clock Out Cash",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 17:04:02 EST"
+      ]
+    },
+    {
+      "id": "nc-ncp",
+      "type": "state",
+      "name": "Cash Pop Primetime Pop",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 20:03:35 EST"
+      ]
+    },
+    {
+      "id": "nc-ncq",
+      "type": "state",
+      "name": "Cash Pop Midnight Money",
+      "state": "North Carolina",
+      "stateId": "NC",
+      "tag": "North Carolina game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "MON 2026-04-06 00:01:11 EST"
+      ]
+    },
+    {
+      "id": "nd-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "North Dakota",
+      "stateId": "ND",
+      "tag": "North Dakota game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "nd-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "North Dakota",
+      "stateId": "ND",
+      "tag": "North Dakota game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "nd-114",
+      "type": "state",
+      "name": "2 By 2",
+      "state": "North Dakota",
+      "stateId": "ND",
+      "tag": "North Dakota game",
+      "jackpot": "$22K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "10",
+        "19"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "2 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:21:16 EST"
+      ]
+    },
+    {
+      "id": "ne-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "ne-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "ne-ne1",
+      "type": "state",
+      "name": "Pick 5",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "$90K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "11",
+        "12",
+        "18",
+        "34"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:15:01 EST"
+      ]
+    },
+    {
+      "id": "ne-114",
+      "type": "state",
+      "name": "2 By 2",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "$22K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "10",
+        "19"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "2 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:21:16 EST"
+      ]
+    },
+    {
+      "id": "ne-ne2",
+      "type": "state",
+      "name": "MyDay",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:16:20 EST"
+      ]
+    },
+    {
+      "id": "ne-ne4",
+      "type": "state",
+      "name": "Pick 4",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "02",
+        "02",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:15:41 EST"
+      ]
+    },
+    {
+      "id": "ne-nea",
+      "type": "state",
+      "name": "Pick 3",
+      "state": "Nebraska",
+      "stateId": "NE",
+      "tag": "Nebraska game",
+      "jackpot": "$600",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "00",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:16:11 EST"
+      ]
+    },
+    {
+      "id": "nh-128",
+      "type": "state",
+      "name": "Megabucks Plus",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "$3.5M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "17",
+        "20",
+        "24",
+        "27",
+        "32"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 20:12:02 EST"
+      ]
+    },
+    {
+      "id": "nh-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "nh-133",
+      "type": "state",
+      "name": "Gimme 5",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "$100K",
+      "lastDraw": "04/03/2026",
+      "numbers": [
+        "19",
+        "34",
+        "36",
+        "37",
+        "39"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "FRI 2026-04-03 19:12:55 EST"
+      ]
+    },
+    {
+      "id": "nh-116",
+      "type": "state",
+      "name": "Pick 4 Day",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "08",
+        "05",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:26:03 EST"
+      ]
+    },
+    {
+      "id": "nh-115",
+      "type": "state",
+      "name": "Pick 3 Day",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "08",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:26:01 EST"
+      ]
+    },
+    {
+      "id": "nh-110",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "04",
+        "09",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:06:04 EST"
+      ]
+    },
+    {
+      "id": "nh-109",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "New Hampshire",
+      "stateId": "NH",
+      "tag": "New Hampshire game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "07",
+        "02"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:06:02 EST"
+      ]
+    },
+    {
+      "id": "nj-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "nj-nj6",
+      "type": "state",
+      "name": "Pick 6 Lotto",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$2.5M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "10",
+        "14",
+        "22",
+        "29",
+        "36",
+        "44"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 23:06:02 EST"
+      ]
+    },
+    {
+      "id": "nj-nj7",
+      "type": "state",
+      "name": "Double Play",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$250K",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "14",
+        "19",
+        "23",
+        "26",
+        "37",
+        "39"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 23:06:03 EST"
+      ]
+    },
+    {
+      "id": "nj-nj2",
+      "type": "state",
+      "name": "Cash 5",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$331K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "19",
+        "23",
+        "31",
+        "43"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:03:02 EST"
+      ]
+    },
+    {
+      "id": "nj-njx",
+      "type": "state",
+      "name": "Xtra",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:03:03 EST"
+      ]
+    },
+    {
+      "id": "nj-njc",
+      "type": "state",
+      "name": "Pick 4 Midday",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "05",
+        "01",
+        "08",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:07:04 EST"
+      ]
+    },
+    {
+      "id": "nj-nja",
+      "type": "state",
+      "name": "Pick 3 Midday",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "09",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:07:02 EST"
+      ]
+    },
+    {
+      "id": "nj-njd",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "09",
+        "00",
+        "04",
+        "02"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:04:38 EST"
+      ]
+    },
+    {
+      "id": "nj-njb",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "New Jersey",
+      "stateId": "NJ",
+      "tag": "New Jersey game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "03",
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:04:39 EST"
+      ]
+    },
+    {
+      "id": "nm-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "nm-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "nm-nm2",
+      "type": "state",
+      "name": "Roadrunner Cash",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "$63K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08",
+        "10",
+        "13",
+        "24",
+        "37"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:37:01 EST"
+      ]
+    },
+    {
+      "id": "nm-nmb",
+      "type": "state",
+      "name": "Pick 3 Day",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "07",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:07:02 EST"
+      ]
+    },
+    {
+      "id": "nm-nma",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "09",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:37:02 EST"
+      ]
+    },
+    {
+      "id": "nm-nme",
+      "type": "state",
+      "name": "Pick 4 Day",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "07",
+        "00",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 15:09:02 EST"
+      ]
+    },
+    {
+      "id": "nm-nmf",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "New Mexico",
+      "stateId": "NM",
+      "tag": "New Mexico game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "02",
+        "07",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:37:03 EST"
+      ]
+    },
+    {
+      "id": "ny-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "ny-ny1",
+      "type": "state",
+      "name": "Lotto",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "$7.7M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "30",
+        "44",
+        "45",
+        "50",
+        "51",
+        "57"
+      ],
+      "special": "41",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/08/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 20:27:02 EST"
+      ]
+    },
+    {
+      "id": "ny-ny5",
+      "type": "state",
+      "name": "Take 5 Midday",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "Average57575",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "05",
+        "11",
+        "26",
+        "36"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:49:02 EST"
+      ]
+    },
+    {
+      "id": "ny-ny2",
+      "type": "state",
+      "name": "Take 5 Evening",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "Average57575",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "13",
+        "15",
+        "23",
+        "30",
+        "32"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:42:39 EST"
+      ]
+    },
+    {
+      "id": "ny-ny3",
+      "type": "state",
+      "name": "Pick 10",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "$500K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "03",
+        "08",
+        "09",
+        "21",
+        "25",
+        "26",
+        "28",
+        "38",
+        "41",
+        "46",
+        "49",
+        "53",
+        "57",
+        "61",
+        "63",
+        "67",
+        "68",
+        "74",
+        "80"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "20 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 20:26:01 EST"
+      ]
+    },
+    {
+      "id": "ny-nyc",
+      "type": "state",
+      "name": "Win 4 Midday",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08",
+        "09",
+        "04",
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:48:03 EST"
+      ]
+    },
+    {
+      "id": "ny-nya",
+      "type": "state",
+      "name": "Numbers Midday",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00",
+        "09",
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:48:02 EST"
+      ]
+    },
+    {
+      "id": "ny-nyd",
+      "type": "state",
+      "name": "Win 4 Evening",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "06",
+        "00",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:41:04 EST"
+      ]
+    },
+    {
+      "id": "ny-nyb",
+      "type": "state",
+      "name": "Numbers Evening",
+      "state": "New York",
+      "stateId": "NY",
+      "tag": "New York game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "08",
+        "03",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:41:03 EST"
+      ]
+    },
+    {
+      "id": "oh-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "oh-oh5",
+      "type": "state",
+      "name": "Classic Lotto",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$3.5M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "12",
+        "20",
+        "31",
+        "42",
+        "45",
+        "47"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 20:22:06 EST"
+      ]
+    },
+    {
+      "id": "oh-oh3",
+      "type": "state",
+      "name": "Rolling Cash 5",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$130K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "14",
+        "23",
+        "26",
+        "27",
+        "31"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:57:04 EST"
+      ]
+    },
+    {
+      "id": "oh-ohc",
+      "type": "state",
+      "name": "Pick 4 Midday",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00",
+        "05",
+        "08",
+        "01"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:00:03 EST"
+      ]
+    },
+    {
+      "id": "oh-oha",
+      "type": "state",
+      "name": "Pick 3 Midday",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "09",
+        "01"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:00:02 EST"
+      ]
+    },
+    {
+      "id": "oh-ohd",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "06",
+        "06",
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:57:02 EST"
+      ]
+    },
+    {
+      "id": "oh-ohb",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "03",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:57:02 EST"
+      ]
+    },
+    {
+      "id": "oh-ohf",
+      "type": "state",
+      "name": "Pick 5 Midday",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$50K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "01",
+        "04",
+        "09",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:00:04 EST"
+      ]
+    },
+    {
+      "id": "oh-ohg",
+      "type": "state",
+      "name": "Pick 5 Evening",
+      "state": "Ohio",
+      "stateId": "OH",
+      "tag": "Ohio game",
+      "jackpot": "$50K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "03",
+        "06",
+        "00",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:57:03 EST"
+      ]
+    },
+    {
+      "id": "ok-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Oklahoma",
+      "stateId": "OK",
+      "tag": "Oklahoma game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "ok-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "Oklahoma",
+      "stateId": "OK",
+      "tag": "Oklahoma game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "ok-ok1",
+      "type": "state",
+      "name": "Cash 5",
+      "state": "Oklahoma",
+      "stateId": "OK",
+      "tag": "Oklahoma game",
+      "jackpot": "$25K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "07",
+        "08",
+        "34",
+        "36"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:16:56 EST"
+      ]
+    },
+    {
+      "id": "ok-oka",
+      "type": "state",
+      "name": "Pick 3",
+      "state": "Oklahoma",
+      "stateId": "OK",
+      "tag": "Oklahoma game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "09",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:16:57 EST"
+      ]
+    },
+    {
+      "id": "or-or1",
+      "type": "state",
+      "name": "Megabucks",
+      "state": "Oregon",
+      "stateId": "OR",
+      "tag": "Oregon game",
+      "jackpot": "$10.9M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "04",
+        "27",
+        "32",
+        "33",
+        "39",
+        "46"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:34:01 EST"
+      ]
+    },
+    {
+      "id": "or-or2",
+      "type": "state",
+      "name": "Win for Life",
+      "state": "Oregon",
+      "stateId": "OR",
+      "tag": "Oregon game",
+      "jackpot": "1000/week for LIFE",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "24",
+        "35",
+        "36",
+        "71"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:02 EST"
+      ]
+    },
+    {
+      "id": "or-ord",
+      "type": "state",
+      "name": "Pick 4 1PM",
+      "state": "Oregon",
+      "stateId": "OR",
+      "tag": "Oregon game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00",
+        "08",
+        "00",
+        "02"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 16:24:02 EST"
+      ]
+    },
+    {
+      "id": "or-ore",
+      "type": "state",
+      "name": "Pick 4 4PM",
+      "state": "Oregon",
+      "stateId": "OR",
+      "tag": "Oregon game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "00",
+        "08",
+        "09",
+        "03"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:03:02 EST"
+      ]
+    },
+    {
+      "id": "or-orf",
+      "type": "state",
+      "name": "Pick 4 7PM",
+      "state": "Oregon",
+      "stateId": "OR",
+      "tag": "Oregon game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "00",
+        "06",
+        "09"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:02:02 EST"
+      ]
+    },
+    {
+      "id": "or-org",
+      "type": "state",
+      "name": "Pick 4 10PM",
+      "state": "Oregon",
+      "stateId": "OR",
+      "tag": "Oregon game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "09",
+        "08",
+        "04"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "MON 2026-04-06 01:03:02 EST"
+      ]
+    },
+    {
+      "id": "pa-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "Pennsylvania",
+      "stateId": "PA",
+      "tag": "Pennsylvania game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "pa-pa3",
+      "type": "state",
+      "name": "Match 6 Lotto",
+      "state": "Pennsylvania",
+      "stateId": "PA",
+      "tag": "Pennsylvania game",
+      "jackpot": "$900K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "06",
+        "23",
+        "28",
+        "33",
+        "38"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:19:02 EST"
+      ]
+    },
+    {
+      "id": "pa-pa2",
+      "type": "state",
+      "name": "Cash 5",
+      "state": "Pennsylvania",
+      "stateId": "PA",
+      "tag": "Pennsylvania game",
+      "jackpot": "$350K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "12",
+        "14",
+        "17",
+        "33",
+        "38"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:19:10 EST"
+      ]
+    },
+    {
+      "id": "pa-pa6",
+      "type": "state",
+      "name": "Treasure Hunt",
+      "state": "Pennsylvania",
+      "stateId": "PA",
+      "tag": "Pennsylvania game",
+      "jackpot": "$28K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "15",
         "16",
         "25",
         "26"
@@ -5364,3047 +8400,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:10:02 EST"
-      ]
-    },
-    {
-      "id": "mo-moh",
-      "type": "state",
-      "name": "MO Millions Main",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$2.4M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "01",
-        "17",
-        "26",
-        "27",
-        "32",
-        "39"
-      ],
-      "special": "32",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:26:27 EST"
-      ]
-    },
-    {
-      "id": "mo-moi",
-      "type": "state",
-      "name": "MO Millions Double Play",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "05",
-        "27",
-        "30",
-        "33",
-        "36",
-        "41"
-      ],
-      "special": "30",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:26:28 EST"
-      ]
-    },
-    {
-      "id": "mo-mom",
-      "type": "state",
-      "name": "Cash Pop Early Bird",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$250",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 09:04:03 EST"
-      ]
-    },
-    {
-      "id": "mo-mon",
-      "type": "state",
-      "name": "Cash Pop Late Morning",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$250",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 12:04:02 EST"
-      ]
-    },
-    {
-      "id": "mo-moo",
-      "type": "state",
-      "name": "Cash Pop Matinee",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$250",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 16:06:02 EST"
-      ]
-    },
-    {
-      "id": "mo-mop",
-      "type": "state",
-      "name": "Cash Pop Prime Time",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$250",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 20:04:02 EST"
-      ]
-    },
-    {
-      "id": "mo-moq",
-      "type": "state",
-      "name": "Cash Pop Night Owl",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$250",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:04:02 EST"
-      ]
-    },
-    {
-      "id": "mo-mod",
-      "type": "state",
-      "name": "Pick 4 Midday",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$6K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "06",
-        "00",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 13:56:04 EST"
-      ]
-    },
-    {
-      "id": "mo-mob",
-      "type": "state",
-      "name": "Pick 3 Midday",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$600",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04",
-        "00",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 13:56:02 EST"
-      ]
-    },
-    {
-      "id": "mo-moc",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$6K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "01",
-        "08",
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:09:41 EST"
-      ]
-    },
-    {
-      "id": "mo-moa",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "$600",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "03",
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:11:04 EST"
-      ]
-    },
-    {
-      "id": "mo-moaw",
-      "type": "state",
-      "name": "Pick 3 Evening Wild",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:10:03 EST"
-      ]
-    },
-    {
-      "id": "mo-mobw",
-      "type": "state",
-      "name": "Pick 3 Midday Wild",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 13:56:02 EST"
-      ]
-    },
-    {
-      "id": "mo-mocw",
-      "type": "state",
-      "name": "Pick 4 Evening Wild",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "08"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:09:41 EST"
-      ]
-    },
-    {
-      "id": "mo-modw",
-      "type": "state",
-      "name": "Pick 4 Midday Wild",
-      "state": "Missouri",
-      "stateId": "MO",
-      "tag": "Missouri game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 13:56:04 EST"
-      ]
-    },
-    {
-      "id": "ms-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "ms-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "ms-ms5",
-      "type": "state",
-      "name": "Match 5",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$245K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "10",
-        "12",
-        "23",
-        "35"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:40:54 EST"
-      ]
-    },
-    {
-      "id": "ms-msm",
-      "type": "state",
-      "name": "Cash Pop Midday",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$250",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:37:02 EST"
-      ]
-    },
-    {
-      "id": "ms-msp",
-      "type": "state",
-      "name": "Cash Pop Evening",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$250",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:40:34 EST"
-      ]
-    },
-    {
-      "id": "ms-msd",
-      "type": "state",
-      "name": "Cash 4 Midday",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "05",
-        "05",
-        "01",
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:37:03 EST"
-      ]
-    },
-    {
-      "id": "ms-msb",
-      "type": "state",
-      "name": "Cash 3 Midday",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "08",
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:37:05 EST"
-      ]
-    },
-    {
-      "id": "ms-msc",
-      "type": "state",
-      "name": "Cash 4 Evening",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "06",
-        "01",
-        "05",
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:39:04 EST"
-      ]
-    },
-    {
-      "id": "ms-msa",
-      "type": "state",
-      "name": "Cash 3 Evening",
-      "state": "Mississippi",
-      "stateId": "MS",
-      "tag": "Mississippi game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04",
-        "04",
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:39:06 EST"
-      ]
-    },
-    {
-      "id": "mt-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Montana",
-      "stateId": "MT",
-      "tag": "Montana game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "mt-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "Montana",
-      "stateId": "MT",
-      "tag": "Montana game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "mt-mt1",
-      "type": "state",
-      "name": "Montana Cash",
-      "state": "Montana",
-      "stateId": "MT",
-      "tag": "Montana game",
-      "jackpot": "$250K",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "08",
-        "10",
-        "16",
-        "21",
-        "38"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:01:44 EST"
-      ]
-    },
-    {
-      "id": "mt-mt4",
-      "type": "state",
-      "name": "Big Sky Bonus",
-      "state": "Montana",
-      "stateId": "MT",
-      "tag": "Montana game",
-      "jackpot": "$5.8K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "06",
-        "17",
-        "22",
-        "23"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 21:32:02 EST"
-      ]
-    },
-    {
-      "id": "nc-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "nc-nc1",
-      "type": "state",
-      "name": "Cash 5",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "$120K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "20",
-        "37",
-        "41",
-        "42"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:49:02 EST"
-      ]
-    },
-    {
-      "id": "nc-nc1d",
-      "type": "state",
-      "name": "Double Play",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "10",
-        "16",
-        "22",
-        "40",
-        "43"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:49:03 EST"
-      ]
-    },
-    {
-      "id": "nc-ncd",
-      "type": "state",
-      "name": "Pick 4 Day",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "08",
-        "00",
-        "02",
-        "08"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:18:03 EST"
-      ]
-    },
-    {
-      "id": "nc-ncc",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "05",
-        "07",
-        "06",
-        "08"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:12:01 EST"
-      ]
-    },
-    {
-      "id": "nc-ncb",
-      "type": "state",
-      "name": "Pick 3 Day",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "08",
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:18:01 EST"
-      ]
-    },
-    {
-      "id": "nc-nca",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01",
-        "05",
-        "09"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:12:03 EST"
-      ]
-    },
-    {
-      "id": "nc-ncm",
-      "type": "state",
-      "name": "Cash Pop Morning Buzz",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 09:04:04 EST"
-      ]
-    },
-    {
-      "id": "nc-ncn",
-      "type": "state",
-      "name": "Cash Pop Lunch Rush",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:09:02 EST"
-      ]
-    },
-    {
-      "id": "nc-nco",
-      "type": "state",
-      "name": "Cash Pop Clock Out Cash",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "09"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 17:06:02 EST"
-      ]
-    },
-    {
-      "id": "nc-ncp",
-      "type": "state",
-      "name": "Cash Pop Primetime Pop",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 20:05:01 EST"
-      ]
-    },
-    {
-      "id": "nc-ncq",
-      "type": "state",
-      "name": "Cash Pop Midnight Money",
-      "state": "North Carolina",
-      "stateId": "NC",
-      "tag": "North Carolina game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "12"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 00:01:57 EST"
-      ]
-    },
-    {
-      "id": "nd-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "North Dakota",
-      "stateId": "ND",
-      "tag": "North Dakota game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "nd-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "North Dakota",
-      "stateId": "ND",
-      "tag": "North Dakota game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "nd-114",
-      "type": "state",
-      "name": "2 By 2",
-      "state": "North Dakota",
-      "stateId": "ND",
-      "tag": "North Dakota game",
-      "jackpot": "$22K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "06",
-        "08"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "2 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:23:02 EST"
-      ]
-    },
-    {
-      "id": "ne-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "ne-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "ne-ne1",
-      "type": "state",
-      "name": "Pick 5",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "$60K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04",
-        "07",
-        "13",
-        "14",
-        "18"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:16:19 EST"
-      ]
-    },
-    {
-      "id": "ne-114",
-      "type": "state",
-      "name": "2 By 2",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "$22K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "06",
-        "08"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "2 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:23:02 EST"
-      ]
-    },
-    {
-      "id": "ne-ne2",
-      "type": "state",
-      "name": "MyDay",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:14:59 EST"
-      ]
-    },
-    {
-      "id": "ne-ne4",
-      "type": "state",
-      "name": "Pick 4",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "08",
-        "09",
-        "06",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:14:42 EST"
-      ]
-    },
-    {
-      "id": "ne-nea",
-      "type": "state",
-      "name": "Pick 3",
-      "state": "Nebraska",
-      "stateId": "NE",
-      "tag": "Nebraska game",
-      "jackpot": "$600",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "08",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:13:02 EST"
-      ]
-    },
-    {
-      "id": "nh-128",
-      "type": "state",
-      "name": "Megabucks Plus",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "$3.5M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "05",
-        "22",
-        "31",
-        "33",
-        "36"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 20:11:04 EST"
-      ]
-    },
-    {
-      "id": "nh-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "nh-133",
-      "type": "state",
-      "name": "Gimme 5",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "12",
-        "16",
-        "19",
-        "32",
-        "33"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:11:02 EST"
-      ]
-    },
-    {
-      "id": "nh-116",
-      "type": "state",
-      "name": "Pick 4 Day",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "01",
-        "05",
-        "05",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:33:04 EST"
-      ]
-    },
-    {
-      "id": "nh-115",
-      "type": "state",
-      "name": "Pick 3 Day",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "$500",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "07",
-        "01",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:33:02 EST"
-      ]
-    },
-    {
-      "id": "nh-110",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "09",
-        "06",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:13:03 EST"
-      ]
-    },
-    {
-      "id": "nh-109",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "New Hampshire",
-      "stateId": "NH",
-      "tag": "New Hampshire game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "02",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:13:02 EST"
-      ]
-    },
-    {
-      "id": "nj-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "nj-nj6",
-      "type": "state",
-      "name": "Pick 6 Lotto",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$2.4M",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "14",
-        "18",
-        "32",
-        "33",
-        "41",
-        "43"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:06:02 EST"
-      ]
-    },
-    {
-      "id": "nj-nj7",
-      "type": "state",
-      "name": "Double Play",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$250K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "10",
-        "12",
-        "32",
-        "33",
-        "38"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:06:02 EST"
-      ]
-    },
-    {
-      "id": "nj-nj2",
-      "type": "state",
-      "name": "Cash 5",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$150K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "23",
-        "26",
-        "28",
-        "35",
-        "39"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:06:12 EST"
-      ]
-    },
-    {
-      "id": "nj-njx",
-      "type": "state",
-      "name": "Xtra",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:06:13 EST"
-      ]
-    },
-    {
-      "id": "nj-njc",
-      "type": "state",
-      "name": "Pick 4 Midday",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "00",
-        "06",
-        "06",
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:10:06 EST"
-      ]
-    },
-    {
-      "id": "nj-nja",
-      "type": "state",
-      "name": "Pick 3 Midday",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$500",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "05",
-        "02",
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:10:04 EST"
-      ]
-    },
-    {
-      "id": "nj-njd",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01",
-        "08",
-        "06",
-        "01"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:06:10 EST"
-      ]
-    },
-    {
-      "id": "nj-njb",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "New Jersey",
-      "stateId": "NJ",
-      "tag": "New Jersey game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "04",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:06:08 EST"
-      ]
-    },
-    {
-      "id": "nm-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "nm-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "nm-nm2",
-      "type": "state",
-      "name": "Roadrunner Cash",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "$57K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "19",
-        "26",
-        "28",
-        "33",
-        "36"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:39:02 EST"
-      ]
-    },
-    {
-      "id": "nm-nmb",
-      "type": "state",
-      "name": "Pick 3 Day",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "09",
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:07:03 EST"
-      ]
-    },
-    {
-      "id": "nm-nma",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "00",
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:37:02 EST"
-      ]
-    },
-    {
-      "id": "nm-nme",
-      "type": "state",
-      "name": "Pick 4 Day",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04",
-        "06",
-        "04",
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 15:07:02 EST"
-      ]
-    },
-    {
-      "id": "nm-nmf",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "New Mexico",
-      "stateId": "NM",
-      "tag": "New Mexico game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "05",
-        "07",
-        "03",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:39:03 EST"
-      ]
-    },
-    {
-      "id": "ny-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "ny-ny1",
-      "type": "state",
-      "name": "Lotto",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "$7.4M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "01",
-        "15",
-        "24",
-        "40",
-        "42",
-        "55"
-      ],
-      "special": "23",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 20:27:02 EST"
-      ]
-    },
-    {
-      "id": "ny-ny5",
-      "type": "state",
-      "name": "Take 5 Midday",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "Average57575",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "08",
-        "11",
-        "18",
-        "29",
-        "32"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 14:48:05 EST"
-      ]
-    },
-    {
-      "id": "ny-ny2",
-      "type": "state",
-      "name": "Take 5 Evening",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "Average57575",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "05",
-        "14",
-        "32",
-        "34",
-        "36"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:44:00 EST"
-      ]
-    },
-    {
-      "id": "ny-ny3",
-      "type": "state",
-      "name": "Pick 10",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "$500K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "05",
-        "07",
-        "08",
-        "12",
-        "24",
-        "27",
-        "30",
-        "34",
-        "40",
-        "43",
-        "46",
-        "49",
-        "55",
-        "59",
-        "62",
-        "72",
-        "75",
-        "78",
-        "79"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "20 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 20:27:02 EST"
-      ]
-    },
-    {
-      "id": "ny-nyc",
-      "type": "state",
-      "name": "Win 4 Midday",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "06",
-        "03",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 14:49:02 EST"
-      ]
-    },
-    {
-      "id": "ny-nya",
-      "type": "state",
-      "name": "Numbers Midday",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "08",
-        "08",
-        "01"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 14:49:01 EST"
-      ]
-    },
-    {
-      "id": "ny-nyd",
-      "type": "state",
-      "name": "Win 4 Evening",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "06",
-        "02",
-        "02",
-        "04"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:43:03 EST"
-      ]
-    },
-    {
-      "id": "ny-nyb",
-      "type": "state",
-      "name": "Numbers Evening",
-      "state": "New York",
-      "stateId": "NY",
-      "tag": "New York game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "04",
-        "01"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:43:02 EST"
-      ]
-    },
-    {
-      "id": "oh-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "oh-oh5",
-      "type": "state",
-      "name": "Classic Lotto",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$3.4M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "04",
-        "07",
-        "18",
-        "25",
-        "40",
-        "44"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 19:57:10 EST"
-      ]
-    },
-    {
-      "id": "oh-oh3",
-      "type": "state",
-      "name": "Rolling Cash 5",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "15",
-        "25",
-        "26",
-        "27",
-        "29"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:55:04 EST"
-      ]
-    },
-    {
-      "id": "oh-ohc",
-      "type": "state",
-      "name": "Pick 4 Midday",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "03",
-        "06",
-        "07",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 12:57:03 EST"
-      ]
-    },
-    {
-      "id": "oh-oha",
-      "type": "state",
-      "name": "Pick 3 Midday",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$500",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "00",
-        "02",
-        "05"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 12:57:02 EST"
-      ]
-    },
-    {
-      "id": "oh-ohd",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "09",
-        "00",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:55:03 EST"
-      ]
-    },
-    {
-      "id": "oh-ohb",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01",
-        "05",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:55:02 EST"
-      ]
-    },
-    {
-      "id": "oh-ohf",
-      "type": "state",
-      "name": "Pick 5 Midday",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$50K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "06",
-        "01",
-        "07",
-        "06",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 12:57:04 EST"
-      ]
-    },
-    {
-      "id": "oh-ohg",
-      "type": "state",
-      "name": "Pick 5 Evening",
-      "state": "Ohio",
-      "stateId": "OH",
-      "tag": "Ohio game",
-      "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "07",
-        "04",
-        "02",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:55:03 EST"
-      ]
-    },
-    {
-      "id": "ok-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Oklahoma",
-      "stateId": "OK",
-      "tag": "Oklahoma game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "ok-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "Oklahoma",
-      "stateId": "OK",
-      "tag": "Oklahoma game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "ok-ok1",
-      "type": "state",
-      "name": "Cash 5",
-      "state": "Oklahoma",
-      "stateId": "OK",
-      "tag": "Oklahoma game",
-      "jackpot": "$25K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "09",
-        "19",
-        "26",
-        "34"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:57:09 EST"
-      ]
-    },
-    {
-      "id": "ok-oka",
-      "type": "state",
-      "name": "Pick 3",
-      "state": "Oklahoma",
-      "stateId": "OK",
-      "tag": "Oklahoma game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "09",
-        "06",
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:57:10 EST"
-      ]
-    },
-    {
-      "id": "or-or1",
-      "type": "state",
-      "name": "Megabucks",
-      "state": "Oregon",
-      "stateId": "OR",
-      "tag": "Oregon game",
-      "jackpot": "$10.8M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "01",
-        "06",
-        "16",
-        "21",
-        "26",
-        "44"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:30:54 EST"
-      ]
-    },
-    {
-      "id": "or-or2",
-      "type": "state",
-      "name": "Win for Life",
-      "state": "Oregon",
-      "stateId": "OR",
-      "tag": "Oregon game",
-      "jackpot": "1000/week for LIFE",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "16",
-        "34",
-        "48",
-        "55"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:31:13 EST"
-      ]
-    },
-    {
-      "id": "or-ord",
-      "type": "state",
-      "name": "Pick 4 1PM",
-      "state": "Oregon",
-      "stateId": "OR",
-      "tag": "Oregon game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "09",
-        "06",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 16:24:03 EST"
-      ]
-    },
-    {
-      "id": "or-ore",
-      "type": "state",
-      "name": "Pick 4 4PM",
-      "state": "Oregon",
-      "stateId": "OR",
-      "tag": "Oregon game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "01",
-        "06",
-        "09"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:03:02 EST"
-      ]
-    },
-    {
-      "id": "or-orf",
-      "type": "state",
-      "name": "Pick 4 7PM",
-      "state": "Oregon",
-      "stateId": "OR",
-      "tag": "Oregon game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "08",
-        "05",
-        "05",
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:02:02 EST"
-      ]
-    },
-    {
-      "id": "or-org",
-      "type": "state",
-      "name": "Pick 4 10PM",
-      "state": "Oregon",
-      "stateId": "OR",
-      "tag": "Oregon game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "08",
-        "08",
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 01:03:02 EST"
-      ]
-    },
-    {
-      "id": "pa-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Pennsylvania",
-      "stateId": "PA",
-      "tag": "Pennsylvania game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "pa-pa3",
-      "type": "state",
-      "name": "Match 6 Lotto",
-      "state": "Pennsylvania",
-      "stateId": "PA",
-      "tag": "Pennsylvania game",
-      "jackpot": "$800K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "15",
-        "24",
-        "33",
-        "34",
-        "35"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:23:02 EST"
-      ]
-    },
-    {
-      "id": "pa-pa2",
-      "type": "state",
-      "name": "Cash 5",
-      "state": "Pennsylvania",
-      "stateId": "PA",
-      "tag": "Pennsylvania game",
-      "jackpot": "$200K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "13",
-        "21",
-        "29",
-        "38"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:23:10 EST"
-      ]
-    },
-    {
-      "id": "pa-pa6",
-      "type": "state",
-      "name": "Treasure Hunt",
-      "state": "Pennsylvania",
-      "stateId": "PA",
-      "tag": "Pennsylvania game",
-      "jackpot": "$100K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "01",
-        "03",
-        "20",
-        "28",
-        "29"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:36:09 EST"
+        "SUN 2026-04-05 13:36:09 EST"
       ]
     },
     {
@@ -8415,13 +8415,13 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$50K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "00",
-        "03",
-        "03",
         "02",
-        "03"
+        "08",
+        "06",
+        "03",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -8430,11 +8430,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:36:07 EST"
+        "SUN 2026-04-05 13:36:07 EST"
       ]
     },
     {
@@ -8445,12 +8445,12 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "02",
-        "03",
-        "01"
+        "07",
+        "07",
+        "09",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -8459,11 +8459,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:36:05 EST"
+        "SUN 2026-04-05 13:36:06 EST"
       ]
     },
     {
@@ -8474,10 +8474,10 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "02",
+        "08",
+        "03",
         "06"
       ],
       "special": null,
@@ -8487,11 +8487,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:36:03 EST"
+        "SUN 2026-04-05 13:36:04 EST"
       ]
     },
     {
@@ -8502,10 +8502,10 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$50",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "03",
-        "03"
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -8514,11 +8514,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:36:02 EST"
+        "SUN 2026-04-05 13:36:02 EST"
       ]
     },
     {
@@ -8529,13 +8529,13 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05",
         "04",
-        "07",
+        "08",
+        "03",
         "01",
-        "07"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -8544,11 +8544,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:23:08 EST"
+        "SUN 2026-04-05 19:19:08 EST"
       ]
     },
     {
@@ -8559,12 +8559,12 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04",
-        "00",
-        "01",
-        "02"
+        "09",
+        "09",
+        "09",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -8573,11 +8573,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:23:07 EST"
+        "SUN 2026-04-05 19:19:07 EST"
       ]
     },
     {
@@ -8588,11 +8588,11 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "02",
-        "01"
+        "05",
+        "03",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -8601,11 +8601,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:23:05 EST"
+        "SUN 2026-04-05 19:19:05 EST"
       ]
     },
     {
@@ -8616,10 +8616,10 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "$50",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "06"
+        "06",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -8628,11 +8628,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:23:03 EST"
+        "SUN 2026-04-05 19:19:03 EST"
       ]
     },
     {
@@ -8643,9 +8643,9 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "14"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -8654,11 +8654,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 09:04:02 EST"
+        "SUN 2026-04-05 09:04:02 EST"
       ]
     },
     {
@@ -8669,9 +8669,9 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "Rolling",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "15"
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -8680,11 +8680,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:39:02 EST"
+        "SUN 2026-04-05 13:39:02 EST"
       ]
     },
     {
@@ -8695,9 +8695,9 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08"
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -8706,11 +8706,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:05:01 EST"
+        "SUN 2026-04-05 19:05:02 EST"
       ]
     },
     {
@@ -8721,9 +8721,9 @@ window.resultsFeedData = {
       "stateId": "PA",
       "tag": "Pennsylvania game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01"
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -8732,11 +8732,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:07:02 EST"
+        "SUN 2026-04-05 23:04:02 EST"
       ]
     },
     {
@@ -8807,10 +8807,10 @@ window.resultsFeedData = {
       "stateId": "PR",
       "tag": "Puerto Rico game",
       "jackpot": "$50",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "01",
-        "03"
+        "00",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -8819,11 +8819,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:55:02 EST"
+        "SAT 2026-04-04 14:55:02 EST"
       ]
     },
     {
@@ -8834,11 +8834,11 @@ window.resultsFeedData = {
       "stateId": "PR",
       "tag": "Puerto Rico game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "08",
-        "00",
-        "07"
+        "04",
+        "09",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -8847,11 +8847,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:55:03 EST"
+        "SAT 2026-04-04 14:55:03 EST"
       ]
     },
     {
@@ -8862,12 +8862,12 @@ window.resultsFeedData = {
       "stateId": "PR",
       "tag": "Puerto Rico game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
+        "01",
+        "05",
         "06",
-        "02",
-        "08",
-        "09"
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -8876,11 +8876,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:55:04 EST"
+        "SAT 2026-04-04 14:55:04 EST"
       ]
     },
     {
@@ -8891,10 +8891,10 @@ window.resultsFeedData = {
       "stateId": "PR",
       "tag": "Puerto Rico game",
       "jackpot": "$50",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "07",
-        "08"
+        "03",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -8903,11 +8903,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:03:02 EST"
+        "SAT 2026-04-04 21:13:02 EST"
       ]
     },
     {
@@ -8918,11 +8918,11 @@ window.resultsFeedData = {
       "stateId": "PR",
       "tag": "Puerto Rico game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
+        "03",
         "09",
-        "01",
-        "00"
+        "09"
       ],
       "special": null,
       "detailA": [
@@ -8931,11 +8931,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:03:03 EST"
+        "SAT 2026-04-04 21:13:03 EST"
       ]
     },
     {
@@ -8946,12 +8946,12 @@ window.resultsFeedData = {
       "stateId": "PR",
       "tag": "Puerto Rico game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "00",
-        "07",
-        "01",
-        "06"
+        "08",
+        "06",
+        "04",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -8960,11 +8960,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:03:04 EST"
+        "SAT 2026-04-04 21:13:03 EST"
       ]
     },
     {
@@ -8975,26 +8975,26 @@ window.resultsFeedData = {
       "stateId": "RI",
       "tag": "Rhode Island game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -9004,14 +9004,14 @@ window.resultsFeedData = {
       "state": "Rhode Island",
       "stateId": "RI",
       "tag": "Rhode Island game",
-      "jackpot": "$30K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$24K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "11",
+        "16",
+        "22",
+        "23",
         "25",
-        "29",
-        "31"
+        "35"
       ],
       "special": null,
       "detailA": [
@@ -9020,11 +9020,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:32:56 EST"
+        "SUN 2026-04-05 19:33:00 EST"
       ]
     },
     {
@@ -9035,12 +9035,12 @@ window.resultsFeedData = {
       "stateId": "RI",
       "tag": "Rhode Island game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
         "08",
-        "03",
-        "06"
+        "04",
+        "00",
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -9049,11 +9049,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:33:05 EST"
+        "SUN 2026-04-05 13:33:04 EST"
       ]
     },
     {
@@ -9064,12 +9064,12 @@ window.resultsFeedData = {
       "stateId": "RI",
       "tag": "Rhode Island game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "05",
-        "08",
-        "05"
+        "03",
+        "01",
+        "06",
+        "06"
       ],
       "special": null,
       "detailA": [
@@ -9078,11 +9078,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:33:03 EST"
+        "SUN 2026-04-05 19:32:07 EST"
       ]
     },
     {
@@ -9092,14 +9092,14 @@ window.resultsFeedData = {
       "state": "South Carolina",
       "stateId": "SC",
       "tag": "South Carolina game",
-      "jackpot": "$150K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$180K",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "02",
-        "08",
-        "19",
-        "31",
-        "40"
+        "07",
+        "10",
+        "32",
+        "39"
       ],
       "special": null,
       "detailA": [
@@ -9108,11 +9108,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:16:17 EST"
+        "SUN 2026-04-05 19:16:02 EST"
       ]
     },
     {
@@ -9123,9 +9123,9 @@ window.resultsFeedData = {
       "stateId": "SC",
       "tag": "South Carolina game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "14"
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -9134,11 +9134,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:13:08 EST"
+        "SAT 2026-04-04 13:13:09 EST"
       ]
     },
     {
@@ -9149,9 +9149,9 @@ window.resultsFeedData = {
       "stateId": "SC",
       "tag": "South Carolina game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "10"
+        "12"
       ],
       "special": null,
       "detailA": [
@@ -9160,11 +9160,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:16:07 EST"
+        "SUN 2026-04-05 19:11:01 EST"
       ]
     },
     {
@@ -9175,12 +9175,12 @@ window.resultsFeedData = {
       "stateId": "SC",
       "tag": "South Carolina game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "07",
-        "02",
-        "03",
-        "02"
+        "06",
+        "04",
+        "05",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -9189,11 +9189,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:13:03 EST"
+        "SAT 2026-04-04 13:13:03 EST"
       ]
     },
     {
@@ -9204,11 +9204,11 @@ window.resultsFeedData = {
       "stateId": "SC",
       "tag": "South Carolina game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "00",
-        "01"
+        "05",
+        "03",
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -9217,11 +9217,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:13:01 EST"
+        "SAT 2026-04-04 13:13:02 EST"
       ]
     },
     {
@@ -9232,11 +9232,11 @@ window.resultsFeedData = {
       "stateId": "SC",
       "tag": "South Carolina game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
+        "02",
         "03",
-        "08",
+        "04",
         "00"
       ],
       "special": null,
@@ -9246,11 +9246,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:15:49 EST"
+        "SUN 2026-04-05 19:11:05 EST"
       ]
     },
     {
@@ -9261,11 +9261,11 @@ window.resultsFeedData = {
       "stateId": "SC",
       "tag": "South Carolina game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "05",
-        "07"
+        "00",
+        "01",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -9274,11 +9274,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:13:58 EST"
+        "SUN 2026-04-05 19:11:03 EST"
       ]
     },
     {
@@ -9289,26 +9289,26 @@ window.resultsFeedData = {
       "stateId": "SD",
       "tag": "South Dakota game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -9319,13 +9319,13 @@ window.resultsFeedData = {
       "stateId": "SD",
       "tag": "South Dakota game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -9334,11 +9334,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -9348,14 +9348,14 @@ window.resultsFeedData = {
       "state": "South Dakota",
       "stateId": "SD",
       "tag": "South Dakota game",
-      "jackpot": "$40K",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$43K",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "05",
         "06",
-        "09",
-        "14",
-        "25"
+        "15",
+        "23",
+        "25",
+        "34"
       ],
       "special": null,
       "detailA": [
@@ -9364,11 +9364,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:37:02 EST"
+        "SAT 2026-04-04 22:33:01 EST"
       ]
     },
     {
@@ -9379,13 +9379,13 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
       ],
       "special": null,
       "detailA": [
@@ -9394,11 +9394,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 22:28:53 EST"
+        "SAT 2026-04-04 22:35:03 EST"
       ]
     },
     {
@@ -9409,26 +9409,26 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -9438,27 +9438,27 @@ window.resultsFeedData = {
       "state": "Tennessee",
       "stateId": "TN",
       "tag": "Tennessee game",
-      "jackpot": "$240K",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$260K",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "02",
-        "05",
-        "08",
-        "31",
-        "33"
+        "06",
+        "21",
+        "26",
+        "33",
+        "34"
       ],
-      "special": "05",
+      "special": "03",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:46:02 EST"
+        "FRI 2026-04-03 23:46:03 EST"
       ]
     },
     {
@@ -9468,14 +9468,14 @@ window.resultsFeedData = {
       "state": "Tennessee",
       "stateId": "TN",
       "tag": "Tennessee game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$130K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "09",
-        "14",
-        "15",
-        "22"
+        "07",
+        "18",
+        "24",
+        "27",
+        "32"
       ],
       "special": null,
       "detailA": [
@@ -9484,11 +9484,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:11:02 EST"
+        "SUN 2026-04-05 22:13:02 EST"
       ]
     },
     {
@@ -9499,11 +9499,11 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "07",
         "03",
-        "02",
+        "06",
+        "03",
         "01"
       ],
       "special": null,
@@ -9513,11 +9513,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 10:34:03 EST"
+        "SAT 2026-04-04 10:33:04 EST"
       ]
     },
     {
@@ -9528,12 +9528,12 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "02",
         "04",
-        "03",
-        "03"
+        "00",
+        "06",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -9542,11 +9542,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:33:08 EST"
+        "SAT 2026-04-04 13:38:03 EST"
       ]
     },
     {
@@ -9557,12 +9557,12 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "01",
-        "06",
-        "05",
-        "00"
+        "09",
+        "00",
+        "07",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -9571,11 +9571,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:36:04 EST"
+        "SUN 2026-04-05 19:43:03 EST"
       ]
     },
     {
@@ -9586,11 +9586,11 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "05",
-        "08"
+        "01",
+        "07",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -9599,11 +9599,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 10:34:02 EST"
+        "SAT 2026-04-04 10:33:02 EST"
       ]
     },
     {
@@ -9614,11 +9614,11 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "00",
-        "00",
-        "01"
+        "02",
+        "08",
+        "04"
       ],
       "special": null,
       "detailA": [
@@ -9627,11 +9627,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:33:06 EST"
+        "SAT 2026-04-04 13:38:01 EST"
       ]
     },
     {
@@ -9642,11 +9642,11 @@ window.resultsFeedData = {
       "stateId": "TN",
       "tag": "Tennessee game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
+        "02",
         "03",
-        "06"
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -9655,11 +9655,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:36:02 EST"
+        "SUN 2026-04-05 19:43:01 EST"
       ]
     },
     {
@@ -9670,26 +9670,26 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -9699,15 +9699,15 @@ window.resultsFeedData = {
       "state": "Texas",
       "stateId": "TX",
       "tag": "Texas game",
-      "jackpot": "$36.5M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$37.2M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "12",
-        "17",
-        "18",
-        "29",
-        "30",
-        "34"
+        "05",
+        "14",
+        "19",
+        "41",
+        "47",
+        "50"
       ],
       "special": null,
       "detailA": [
@@ -9716,11 +9716,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:26:02 EST"
+        "SAT 2026-04-04 23:25:08 EST"
       ]
     },
     {
@@ -9731,13 +9731,13 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$25K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "14",
-        "17",
-        "27",
-        "34"
+        "12",
+        "19",
+        "25",
+        "30",
+        "35"
       ],
       "special": null,
       "detailA": [
@@ -9746,11 +9746,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:01 EST"
+        "SAT 2026-04-04 23:26:02 EST"
       ]
     },
     {
@@ -9790,55 +9790,18 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$250K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
         "01",
         "02",
-        "03",
-        "04",
-        "07",
-        "09",
-        "12",
-        "14",
-        "15",
-        "16",
-        "20",
-        "22"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "12 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 11:10:01 EST"
-      ]
-    },
-    {
-      "id": "tx-txg",
-      "type": "state",
-      "name": "All or Nothing Day",
-      "state": "Texas",
-      "stateId": "TX",
-      "tag": "Texas game",
-      "jackpot": "$250K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "03",
-        "06",
         "07",
         "08",
         "09",
-        "12",
+        "10",
+        "13",
         "15",
+        "16",
         "17",
-        "20",
-        "21",
         "22",
         "23"
       ],
@@ -9849,11 +9812,48 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:35:03 EST"
+        "SAT 2026-04-04 11:10:02 EST"
+      ]
+    },
+    {
+      "id": "tx-txg",
+      "type": "state",
+      "name": "All or Nothing Day",
+      "state": "Texas",
+      "stateId": "TX",
+      "tag": "Texas game",
+      "jackpot": "$250K",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "01",
+        "03",
+        "07",
+        "08",
+        "13",
+        "14",
+        "16",
+        "17",
+        "19",
+        "20",
+        "21",
+        "24"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "12 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 13:35:02 EST"
       ]
     },
     {
@@ -9864,18 +9864,18 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$250K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
         "03",
         "04",
-        "05",
+        "06",
         "07",
+        "08",
         "09",
-        "13",
-        "14",
         "15",
         "16",
-        "17",
+        "19",
+        "22",
         "23",
         "24"
       ],
@@ -9886,11 +9886,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:10:02 EST"
+        "SAT 2026-04-04 19:10:04 EST"
       ]
     },
     {
@@ -9901,19 +9901,19 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$250K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
+        "01",
+        "02",
         "05",
-        "06",
-        "07",
+        "08",
         "09",
+        "10",
+        "11",
         "14",
         "15",
         "16",
-        "17",
-        "19",
         "20",
-        "23",
         "24"
       ],
       "special": null,
@@ -9923,11 +9923,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:24:02 EST"
+        "SAT 2026-04-04 23:23:02 EST"
       ]
     },
     {
@@ -9938,11 +9938,11 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "08",
-        "04",
+        "02",
+        "07",
+        "03",
         "02"
       ],
       "special": null,
@@ -9952,11 +9952,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 11:10:04 EST"
+        "SAT 2026-04-04 11:10:05 EST"
       ]
     },
     {
@@ -9967,12 +9967,12 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "02",
+        "03",
         "04",
-        "04",
-        "07"
+        "06",
+        "02"
       ],
       "special": null,
       "detailA": [
@@ -9981,11 +9981,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:35:05 EST"
+        "SAT 2026-04-04 13:35:05 EST"
       ]
     },
     {
@@ -9996,12 +9996,12 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "02",
-        "02",
         "01",
-        "08"
+        "04",
+        "06",
+        "07"
       ],
       "special": null,
       "detailA": [
@@ -10010,11 +10010,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:10:05 EST"
+        "SAT 2026-04-04 19:10:07 EST"
       ]
     },
     {
@@ -10025,12 +10025,12 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "05",
-        "08",
-        "01",
-        "01"
+        "04",
+        "09",
+        "00",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -10039,11 +10039,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:24:05 EST"
+        "SAT 2026-04-04 23:23:05 EST"
       ]
     },
     {
@@ -10054,11 +10054,11 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "00",
-        "06",
-        "08"
+        "04",
+        "08",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -10067,11 +10067,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 11:10:02 EST"
+        "SAT 2026-04-04 11:10:03 EST"
       ]
     },
     {
@@ -10082,11 +10082,11 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$500",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "08",
-        "04"
+        "03",
+        "05",
+        "08"
       ],
       "special": null,
       "detailA": [
@@ -10095,11 +10095,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 13:35:03 EST"
+        "SAT 2026-04-04 13:35:03 EST"
       ]
     },
     {
@@ -10110,10 +10110,10 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "09",
-        "04",
+        "00",
+        "08",
         "05"
       ],
       "special": null,
@@ -10123,11 +10123,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:10:03 EST"
+        "SAT 2026-04-04 19:10:05 EST"
       ]
     },
     {
@@ -10138,11 +10138,11 @@ window.resultsFeedData = {
       "stateId": "TX",
       "tag": "Texas game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
         "04",
-        "04",
-        "07"
+        "00",
+        "01"
       ],
       "special": null,
       "detailA": [
@@ -10151,11 +10151,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:24:03 EST"
+        "SAT 2026-04-04 23:23:03 EST"
       ]
     },
     {
@@ -10166,26 +10166,26 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -10196,27 +10196,27 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "1000000 After Tax",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
+        "07",
+        "08",
         "12",
-        "14",
-        "16",
-        "24",
-        "29",
-        "31"
+        "13",
+        "15",
+        "21"
       ],
-      "special": "17",
+      "special": "09",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:37:04 EST"
+        "SAT 2026-04-04 23:30:03 EST"
       ]
     },
     {
@@ -10226,14 +10226,14 @@ window.resultsFeedData = {
       "state": "Virginia",
       "stateId": "VA",
       "tag": "Virginia game",
-      "jackpot": "$220K",
-      "lastDraw": "04/02/2026",
+      "jackpot": "$235K",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "20",
-        "24",
-        "28",
-        "33",
-        "35"
+        "07",
+        "17",
+        "18",
+        "26",
+        "30"
       ],
       "special": null,
       "detailA": [
@@ -10242,11 +10242,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:19:02 EST"
+        "SUN 2026-04-05 23:26:01 EST"
       ]
     },
     {
@@ -10257,9 +10257,9 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "10"
+        "12"
       ],
       "special": null,
       "detailA": [
@@ -10268,11 +10268,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 09:13:02 EST"
+        "SUN 2026-04-05 09:15:02 EST"
       ]
     },
     {
@@ -10283,9 +10283,9 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$250",
-      "lastDraw": "04/03/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05"
+        "12"
       ],
       "special": null,
       "detailA": [
@@ -10294,11 +10294,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 12:13:02 EST"
+        "SUN 2026-04-05 12:12:02 EST"
       ]
     },
     {
@@ -10309,9 +10309,9 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "05"
+        "15"
       ],
       "special": null,
       "detailA": [
@@ -10320,11 +10320,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 17:16:02 EST"
+        "SUN 2026-04-05 17:15:02 EST"
       ]
     },
     {
@@ -10335,9 +10335,9 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09"
+        "15"
       ],
       "special": null,
       "detailA": [
@@ -10346,11 +10346,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 21:03:22 EST"
+        "SUN 2026-04-05 21:03:24 EST"
       ]
     },
     {
@@ -10361,9 +10361,9 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$250",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "04"
+        "13"
       ],
       "special": null,
       "detailA": [
@@ -10372,11 +10372,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "FRI 2026-04-03 00:05:38 EST"
+        "MON 2026-04-06 00:02:16 EST"
       ]
     },
     {
@@ -10387,12 +10387,12 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "08",
-        "01",
         "07",
-        "07"
+        "01",
+        "01",
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -10401,11 +10401,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:18:07 EST"
+        "SUN 2026-04-05 14:19:03 EST"
       ]
     },
     {
@@ -10416,11 +10416,11 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "02",
-        "09",
-        "05"
+        "05",
+        "04",
+        "00"
       ],
       "special": null,
       "detailA": [
@@ -10429,11 +10429,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:18:05 EST"
+        "SUN 2026-04-05 14:19:01 EST"
       ]
     },
     {
@@ -10444,10 +10444,10 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "08",
+        "05",
+        "07",
         "02",
         "06"
       ],
@@ -10458,11 +10458,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:19:03 EST"
+        "SUN 2026-04-05 23:24:10 EST"
       ]
     },
     {
@@ -10473,11 +10473,11 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
+        "00",
         "02",
-        "08",
-        "09"
+        "05"
       ],
       "special": null,
       "detailA": [
@@ -10486,11 +10486,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:19:01 EST"
+        "SUN 2026-04-05 23:24:08 EST"
       ]
     },
     {
@@ -10501,13 +10501,13 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "08",
+        "04",
+        "04",
+        "03",
         "00",
-        "05",
-        "06"
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -10516,11 +10516,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 14:18:08 EST"
+        "SUN 2026-04-05 14:19:05 EST"
       ]
     },
     {
@@ -10531,12 +10531,12 @@ window.resultsFeedData = {
       "stateId": "VA",
       "tag": "Virginia game",
       "jackpot": "$50K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "05",
-        "06",
-        "03",
-        "09",
+        "08",
+        "00",
+        "02",
         "08"
       ],
       "special": null,
@@ -10546,11 +10546,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:19:05 EST"
+        "SUN 2026-04-05 23:24:12 EST"
       ]
     },
     {
@@ -10561,13 +10561,13 @@ window.resultsFeedData = {
       "stateId": "VT",
       "tag": "Vermont game",
       "jackpot": "$3.5M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "05",
-        "22",
-        "31",
-        "33",
-        "36"
+        "17",
+        "20",
+        "24",
+        "27",
+        "32"
       ],
       "special": null,
       "detailA": [
@@ -10576,11 +10576,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 20:11:04 EST"
+        "SAT 2026-04-04 20:12:02 EST"
       ]
     },
     {
@@ -10591,26 +10591,26 @@ window.resultsFeedData = {
       "stateId": "VT",
       "tag": "Vermont game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
@@ -10621,13 +10621,13 @@ window.resultsFeedData = {
       "stateId": "VT",
       "tag": "Vermont game",
       "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "12",
-        "16",
         "19",
-        "32",
-        "33"
+        "34",
+        "36",
+        "37",
+        "39"
       ],
       "special": null,
       "detailA": [
@@ -10636,11 +10636,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:11:02 EST"
+        "FRI 2026-04-03 19:12:55 EST"
       ]
     },
     {
@@ -10651,682 +10651,10 @@ window.resultsFeedData = {
       "stateId": "VT",
       "tag": "Vermont game",
       "jackpot": "$5K",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "01",
-        "05",
-        "05",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:33:04 EST"
-      ]
-    },
-    {
-      "id": "vt-115",
-      "type": "state",
-      "name": "Pick 3 Day",
-      "state": "Vermont",
-      "stateId": "VT",
-      "tag": "Vermont game",
-      "jackpot": "$500",
-      "lastDraw": "04/03/2026",
-      "numbers": [
-        "07",
-        "01",
-        "03"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "FRI 2026-04-03 13:33:02 EST"
-      ]
-    },
-    {
-      "id": "vt-110",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "Vermont",
-      "stateId": "VT",
-      "tag": "Vermont game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "00",
-        "09",
-        "06",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:13:03 EST"
-      ]
-    },
-    {
-      "id": "vt-109",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "Vermont",
-      "stateId": "VT",
-      "tag": "Vermont game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
         "03",
-        "02",
-        "06"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:13:02 EST"
-      ]
-    },
-    {
-      "id": "wa-wa1",
-      "type": "state",
-      "name": "Lotto",
-      "state": "Washington",
-      "stateId": "WA",
-      "tag": "Washington game",
-      "jackpot": "$3.6M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "07",
-        "09",
-        "17",
-        "24",
-        "44",
-        "46"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 23:55:02 EST"
-      ]
-    },
-    {
-      "id": "wa-wa6",
-      "type": "state",
-      "name": "Hit 5",
-      "state": "Washington",
-      "stateId": "WA",
-      "tag": "Washington game",
-      "jackpot": "$315K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "20",
-        "22",
-        "24",
-        "37",
-        "38"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:16:03 EST"
-      ]
-    },
-    {
-      "id": "wa-wa7",
-      "type": "state",
-      "name": "Match 4",
-      "state": "Washington",
-      "stateId": "WA",
-      "tag": "Washington game",
-      "jackpot": "$10K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "09",
-        "12",
-        "21"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:16:04 EST"
-      ]
-    },
-    {
-      "id": "wa-waa",
-      "type": "state",
-      "name": "Pick 3",
-      "state": "Washington",
-      "stateId": "WA",
-      "tag": "Washington game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01",
-        "09",
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:16:05 EST"
-      ]
-    },
-    {
-      "id": "wa-wa4",
-      "type": "state",
-      "name": "Keno",
-      "state": "Washington",
-      "stateId": "WA",
-      "tag": "Washington game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "11",
-        "12",
-        "19",
-        "22",
-        "25",
-        "31",
-        "40",
-        "41",
-        "45",
-        "54",
-        "55",
-        "57",
-        "58",
-        "66",
-        "67",
-        "68",
-        "69",
-        "73",
-        "74",
-        "79"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "20 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:16:07 EST"
-      ]
-    },
-    {
-      "id": "wa-wam",
-      "type": "state",
-      "name": "Cash Pop",
-      "state": "Washington",
-      "stateId": "WA",
-      "tag": "Washington game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "09"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "1 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:16:06 EST"
-      ]
-    },
-    {
-      "id": "wi-wi1",
-      "type": "state",
-      "name": "Megabucks",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$1.3M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "01",
-        "13",
-        "15",
-        "24",
-        "37",
-        "49"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:20:16 EST"
-      ]
-    },
-    {
-      "id": "wi-wi2",
-      "type": "state",
-      "name": "Super Cash",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$350K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "04",
-        "12",
-        "13",
-        "15",
-        "28"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:20:02 EST"
-      ]
-    },
-    {
-      "id": "wi-wi5",
-      "type": "state",
-      "name": "Badger 5",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$19K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01",
-        "15",
-        "16",
-        "20",
-        "30"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:20:05 EST"
-      ]
-    },
-    {
-      "id": "wi-wid",
-      "type": "state",
-      "name": "Pick 4 Midday",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "06",
-        "05",
         "08",
-        "02"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 14:48:03 EST"
-      ]
-    },
-    {
-      "id": "wi-wic",
-      "type": "state",
-      "name": "Pick 4 Evening",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04",
-        "08",
-        "03",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "4 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:20:04 EST"
-      ]
-    },
-    {
-      "id": "wi-wib",
-      "type": "state",
-      "name": "Pick 3 Midday",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "03",
-        "05",
-        "07"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 14:48:02 EST"
-      ]
-    },
-    {
-      "id": "wi-wia",
-      "type": "state",
-      "name": "Pick 3 Evening",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$500",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "02",
-        "00"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "3 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:20:01 EST"
-      ]
-    },
-    {
-      "id": "wi-wi8",
-      "type": "state",
-      "name": "All or Nothing Midday",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "02",
-        "05",
-        "08",
-        "11",
-        "12",
-        "14",
-        "15",
-        "16",
-        "17",
-        "20",
-        "22"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "11 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 14:48:03 EST"
-      ]
-    },
-    {
-      "id": "wi-wi7",
-      "type": "state",
-      "name": "All or Nothing Evening",
-      "state": "Wisconsin",
-      "stateId": "WI",
-      "tag": "Wisconsin game",
-      "jackpot": "$100K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "01",
-        "02",
-        "03",
-        "05",
-        "06",
-        "10",
-        "12",
-        "13",
-        "15",
-        "18",
-        "21"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "11 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 22:20:06 EST"
-      ]
-    },
-    {
-      "id": "wv-135",
-      "type": "state",
-      "name": "Lotto America",
-      "state": "West Virginia",
-      "stateId": "WV",
-      "tag": "West Virginia game",
-      "jackpot": "$21.1M",
-      "lastDraw": "04/01/2026",
-      "numbers": [
-        "26",
-        "34",
-        "39",
-        "42",
-        "51"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "5 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/04/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "WED 2026-04-01 22:28:53 EST"
-      ]
-    },
-    {
-      "id": "wv-145",
-      "type": "state",
-      "name": "Millionaire for Life",
-      "state": "West Virginia",
-      "stateId": "WV",
-      "tag": "West Virginia game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
-      ],
-      "special": "04",
-      "detailA": [
-        "Bonus",
-        "Included"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 23:26:04 EST"
-      ]
-    },
-    {
-      "id": "wv-wv1",
-      "type": "state",
-      "name": "Cash 25",
-      "state": "West Virginia",
-      "stateId": "WV",
-      "tag": "West Virginia game",
-      "jackpot": "$25K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "10",
-        "11",
-        "13",
-        "18",
-        "20",
-        "22"
-      ],
-      "special": null,
-      "detailA": [
-        "Numbers",
-        "6 drawn"
-      ],
-      "detailB": [
-        "Next draw",
-        "04/03/2026"
-      ],
-      "detailC": [
-        "Updated",
-        "THU 2026-04-02 19:18:02 EST"
-      ]
-    },
-    {
-      "id": "wv-wvc",
-      "type": "state",
-      "name": "Daily 4",
-      "state": "West Virginia",
-      "stateId": "WV",
-      "tag": "West Virginia game",
-      "jackpot": "$5K",
-      "lastDraw": "04/02/2026",
-      "numbers": [
-        "04",
-        "00",
         "05",
         "05"
       ],
@@ -11337,11 +10665,683 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:07:03 EST"
+        "SUN 2026-04-05 13:26:03 EST"
+      ]
+    },
+    {
+      "id": "vt-115",
+      "type": "state",
+      "name": "Pick 3 Day",
+      "state": "Vermont",
+      "stateId": "VT",
+      "tag": "Vermont game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "06",
+        "08",
+        "06"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 13:26:01 EST"
+      ]
+    },
+    {
+      "id": "vt-110",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "Vermont",
+      "stateId": "VT",
+      "tag": "Vermont game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "04",
+        "09",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:06:04 EST"
+      ]
+    },
+    {
+      "id": "vt-109",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "Vermont",
+      "stateId": "VT",
+      "tag": "Vermont game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "07",
+        "02"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 19:06:02 EST"
+      ]
+    },
+    {
+      "id": "wa-wa1",
+      "type": "state",
+      "name": "Lotto",
+      "state": "Washington",
+      "stateId": "WA",
+      "tag": "Washington game",
+      "jackpot": "$3.7M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "02",
+        "18",
+        "25",
+        "33",
+        "36",
+        "43"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 23:44:12 EST"
+      ]
+    },
+    {
+      "id": "wa-wa6",
+      "type": "state",
+      "name": "Hit 5",
+      "state": "Washington",
+      "stateId": "WA",
+      "tag": "Washington game",
+      "jackpot": "$110K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "23",
+        "27",
+        "28",
+        "33"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:17:01 EST"
+      ]
+    },
+    {
+      "id": "wa-wa7",
+      "type": "state",
+      "name": "Match 4",
+      "state": "Washington",
+      "stateId": "WA",
+      "tag": "Washington game",
+      "jackpot": "$10K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "08",
+        "12",
+        "24"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:17:02 EST"
+      ]
+    },
+    {
+      "id": "wa-waa",
+      "type": "state",
+      "name": "Pick 3",
+      "state": "Washington",
+      "stateId": "WA",
+      "tag": "Washington game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "09",
+        "01",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:17:03 EST"
+      ]
+    },
+    {
+      "id": "wa-wa4",
+      "type": "state",
+      "name": "Keno",
+      "state": "Washington",
+      "stateId": "WA",
+      "tag": "Washington game",
+      "jackpot": "$100K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "04",
+        "09",
+        "11",
+        "14",
+        "15",
+        "23",
+        "25",
+        "28",
+        "31",
+        "33",
+        "35",
+        "39",
+        "42",
+        "48",
+        "55",
+        "63",
+        "65",
+        "71",
+        "72",
+        "75"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "20 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:17:05 EST"
+      ]
+    },
+    {
+      "id": "wa-wam",
+      "type": "state",
+      "name": "Cash Pop",
+      "state": "Washington",
+      "stateId": "WA",
+      "tag": "Washington game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "14"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "1 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:17:04 EST"
+      ]
+    },
+    {
+      "id": "wi-wi1",
+      "type": "state",
+      "name": "Megabucks",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$1.4M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "08",
+        "25",
+        "27",
+        "30",
+        "41",
+        "49"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/08/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:25:49 EST"
+      ]
+    },
+    {
+      "id": "wi-wi2",
+      "type": "state",
+      "name": "Super Cash",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$350K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "03",
+        "08",
+        "16",
+        "25",
+        "36",
+        "39"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:20:03 EST"
+      ]
+    },
+    {
+      "id": "wi-wi5",
+      "type": "state",
+      "name": "Badger 5",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$58K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "08",
+        "16",
+        "27",
+        "28"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:20:05 EST"
+      ]
+    },
+    {
+      "id": "wi-wid",
+      "type": "state",
+      "name": "Pick 4 Midday",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "05",
+        "04",
+        "02",
+        "05"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:43:03 EST"
+      ]
+    },
+    {
+      "id": "wi-wic",
+      "type": "state",
+      "name": "Pick 4 Evening",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$5K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "09",
+        "05",
+        "05",
+        "07"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:20:04 EST"
+      ]
+    },
+    {
+      "id": "wi-wib",
+      "type": "state",
+      "name": "Pick 3 Midday",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "07",
+        "06",
+        "00"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:43:02 EST"
+      ]
+    },
+    {
+      "id": "wi-wia",
+      "type": "state",
+      "name": "Pick 3 Evening",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$500",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "02",
+        "01",
+        "08"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "3 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:20:02 EST"
+      ]
+    },
+    {
+      "id": "wi-wi8",
+      "type": "state",
+      "name": "All or Nothing Midday",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$100K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "03",
+        "05",
+        "07",
+        "10",
+        "12",
+        "16",
+        "17",
+        "18",
+        "20",
+        "22"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "11 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 14:43:02 EST"
+      ]
+    },
+    {
+      "id": "wi-wi7",
+      "type": "state",
+      "name": "All or Nothing Evening",
+      "state": "Wisconsin",
+      "stateId": "WI",
+      "tag": "Wisconsin game",
+      "jackpot": "$100K",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "04",
+        "05",
+        "06",
+        "10",
+        "13",
+        "14",
+        "16",
+        "18",
+        "20",
+        "21"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "11 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 22:20:06 EST"
+      ]
+    },
+    {
+      "id": "wv-135",
+      "type": "state",
+      "name": "Lotto America",
+      "state": "West Virginia",
+      "stateId": "WV",
+      "tag": "West Virginia game",
+      "jackpot": "$21.1M",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "06",
+        "31",
+        "35",
+        "36",
+        "40"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "5 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 22:35:03 EST"
+      ]
+    },
+    {
+      "id": "wv-145",
+      "type": "state",
+      "name": "Millionaire for Life",
+      "state": "West Virginia",
+      "stateId": "WV",
+      "tag": "West Virginia game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
+      "numbers": [
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
+      ],
+      "special": "02",
+      "detailA": [
+        "Bonus",
+        "Included"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SUN 2026-04-05 23:24:01 EST"
+      ]
+    },
+    {
+      "id": "wv-wv1",
+      "type": "state",
+      "name": "Cash 25",
+      "state": "West Virginia",
+      "stateId": "WV",
+      "tag": "West Virginia game",
+      "jackpot": "$25K",
+      "lastDraw": "04/03/2026",
+      "numbers": [
+        "02",
+        "09",
+        "15",
+        "17",
+        "19",
+        "24"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "6 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "FRI 2026-04-03 19:16:15 EST"
+      ]
+    },
+    {
+      "id": "wv-wvc",
+      "type": "state",
+      "name": "Daily 4",
+      "state": "West Virginia",
+      "stateId": "WV",
+      "tag": "West Virginia game",
+      "jackpot": "$5K",
+      "lastDraw": "04/04/2026",
+      "numbers": [
+        "04",
+        "01",
+        "00",
+        "01"
+      ],
+      "special": null,
+      "detailA": [
+        "Numbers",
+        "4 drawn"
+      ],
+      "detailB": [
+        "Next draw",
+        "04/06/2026"
+      ],
+      "detailC": [
+        "Updated",
+        "SAT 2026-04-04 19:07:03 EST"
       ]
     },
     {
@@ -11352,11 +11352,11 @@ window.resultsFeedData = {
       "stateId": "WV",
       "tag": "West Virginia game",
       "jackpot": "$500",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "00",
-        "06",
-        "02"
+        "04",
+        "08",
+        "03"
       ],
       "special": null,
       "detailA": [
@@ -11365,11 +11365,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 19:07:02 EST"
+        "SAT 2026-04-04 19:07:02 EST"
       ]
     },
     {
@@ -11380,10 +11380,10 @@ window.resultsFeedData = {
       "stateId": "WY",
       "tag": "Wyoming game",
       "jackpot": "$22K",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "06",
-        "08"
+        "10",
+        "19"
       ],
       "special": null,
       "detailA": [
@@ -11392,11 +11392,11 @@ window.resultsFeedData = {
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 22:23:02 EST"
+        "SUN 2026-04-05 22:21:16 EST"
       ]
     },
     {
@@ -11438,27 +11438,27 @@ window.resultsFeedData = {
       "state": "Arkansas",
       "stateId": "AR",
       "tag": "National draw",
-      "jackpot": "$217M",
-      "lastDraw": "04/01/2026",
+      "jackpot": "$231M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "04",
-        "10",
-        "11",
-        "52",
-        "64"
+        "03",
+        "06",
+        "13",
+        "41",
+        "65"
       ],
-      "special": "24",
+      "special": "01",
       "detailA": [
         "Power Play",
-        "3"
+        "4"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:01:15 EST"
+        "MON 2026-04-06 07:25:57 EST"
       ]
     },
     {
@@ -11469,26 +11469,26 @@ window.resultsFeedData = {
       "stateId": "AR",
       "tag": "National draw",
       "jackpot": "$10M",
-      "lastDraw": "04/01/2026",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "27",
-        "31",
-        "47",
-        "56",
-        "68"
+        "20",
+        "38",
+        "45",
+        "58",
+        "63"
       ],
-      "special": "14",
+      "special": "05",
       "detailA": [
         "Special",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:30:15 EST"
+        "SAT 2026-04-04 23:29:48 EST"
       ]
     },
     {
@@ -11498,57 +11498,58 @@ window.resultsFeedData = {
       "state": "Arkansas",
       "stateId": "AR",
       "tag": "National draw",
-      "jackpot": "$90M",
-      "lastDraw": "03/31/2026",
+      "jackpot": "$100M",
+      "lastDraw": "04/03/2026",
       "numbers": [
-        "18",
-        "35",
+        "31",
         "45",
-        "60",
-        "65"
+        "62",
+        "63",
+        "68"
       ],
-      "special": "17",
+      "special": "15",
       "detailA": [
         "Bonus",
         "Mega Ball"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/07/2026"
       ],
       "detailC": [
         "Updated",
-        "TUE 2026-03-31 23:05:38 EST"
+        "MON 2026-04-06 07:25:57 EST"
       ]
     },
     {
-      "id": "ar-145",
+      "id": "fl-fl1",
       "type": "state",
-      "name": "Millionaire for Life",
-      "state": "Arkansas",
-      "stateId": "AR",
-      "tag": "Arkansas game",
-      "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "name": "Lotto",
+      "state": "Florida",
+      "stateId": "FL",
+      "tag": "Florida game",
+      "jackpot": "$13.8M",
+      "lastDraw": "04/04/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "10",
+        "12",
+        "13",
+        "15",
+        "45",
+        "48"
       ],
-      "special": "04",
+      "special": null,
       "detailA": [
-        "Bonus",
-        "Included"
+        "Numbers",
+        "6 drawn"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/08/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SAT 2026-04-04 23:43:11 EST"
       ]
     },
     {
@@ -11559,57 +11560,56 @@ window.resultsFeedData = {
       "stateId": "GA",
       "tag": "Georgia game",
       "jackpot": "Rolling",
-      "lastDraw": "04/02/2026",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "07",
-        "18",
-        "38",
-        "46",
-        "55"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": "04",
+      "special": "02",
       "detailA": [
         "Bonus",
         "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/03/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "THU 2026-04-02 23:26:04 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     },
     {
-      "id": "fl-fl1",
+      "id": "ar-145",
       "type": "state",
-      "name": "Lotto",
-      "state": "Florida",
-      "stateId": "FL",
-      "tag": "Florida game",
-      "jackpot": "$12.8M",
-      "lastDraw": "04/01/2026",
+      "name": "Millionaire for Life",
+      "state": "Arkansas",
+      "stateId": "AR",
+      "tag": "Arkansas game",
+      "jackpot": "Rolling",
+      "lastDraw": "04/05/2026",
       "numbers": [
-        "09",
-        "31",
-        "33",
-        "46",
-        "47",
-        "51"
+        "01",
+        "19",
+        "21",
+        "22",
+        "54"
       ],
-      "special": null,
+      "special": "02",
       "detailA": [
-        "Numbers",
-        "6 drawn"
+        "Bonus",
+        "Included"
       ],
       "detailB": [
         "Next draw",
-        "04/04/2026"
+        "04/06/2026"
       ],
       "detailC": [
         "Updated",
-        "WED 2026-04-01 23:46:03 EST"
+        "SUN 2026-04-05 23:24:01 EST"
       ]
     }
   ],
