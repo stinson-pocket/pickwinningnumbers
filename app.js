@@ -453,11 +453,36 @@
     }
   }
 
+  function registerPwaAssets() {
+    if (!document.querySelector('link[rel="manifest"]')) {
+      const manifest = document.createElement("link");
+      manifest.rel = "manifest";
+      manifest.href = "/manifest.json";
+      document.head.appendChild(manifest);
+    }
+
+    if (!document.querySelector('meta[name="theme-color"]')) {
+      const themeMeta = document.createElement("meta");
+      themeMeta.name = "theme-color";
+      themeMeta.content = "#050b15";
+      document.head.appendChild(themeMeta);
+    }
+
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/sw.js").catch((error) => {
+          console.error("Service worker registration failed", error);
+        });
+      });
+    }
+  }
+
   (window.resultsFeedReady || Promise.resolve()).then(() => {
     renderHome();
     renderResultsPage();
     renderTipsPage();
     renderGamePage();
     wireNewsletterForms();
+    registerPwaAssets();
   });
 })();
